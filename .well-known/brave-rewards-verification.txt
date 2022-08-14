@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pandapip1.github.io
+Token: d21b51ce2ca439f592b917ad75d1b1f1aab66de82cdc1b5e03710827e6ee0de0
