@@ -25,10 +25,10 @@
 #### 🌱 Recent Contributions
 
 - [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (today) - 🏷️ GitHub Action to remove labels
+- [Pandapip1/.github](https://github.com/Pandapip1/.github) (today)
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [Pandapip1/merge-test](https://github.com/Pandapip1/merge-test) (2 days ago)
 - [ethereum/eipw](https://github.com/ethereum/eipw) (4 days ago)
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (4 days ago) - Automatically add labels depending on Jekyll front matter attributes
 
 #### 👪  Recent Followers
 
