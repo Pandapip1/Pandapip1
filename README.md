@@ -26,8 +26,8 @@
 
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
-- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (3 days ago) - 🏷️ GitHub Action to remove labels
 - [Pandapip1/.github](https://github.com/Pandapip1/.github) (3 days ago)
+- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (3 days ago) - 🏷️ GitHub Action to remove labels
 - [Pandapip1/merge-test](https://github.com/Pandapip1/merge-test) (5 days ago)
 
 #### 👪  Recent Followers
