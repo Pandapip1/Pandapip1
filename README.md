@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Chiadikaobixo](https://github.com/Chiadikaobixo)
 - [deauna](https://github.com/deauna)
 - [mohammadhosein552zarei](https://github.com/mohammadhosein552zarei)
 - [jakerockland](https://github.com/jakerockland)
 - [maniac1122](https://github.com/maniac1122)
-- [pantaovay](https://github.com/pantaovay)
 
 
