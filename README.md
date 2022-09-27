@@ -24,10 +24,10 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
+- [Pandapip1/ipfs-access-type-internet-draft](https://github.com/Pandapip1/ipfs-access-type-internet-draft) (today) - https://github.com/ipfs/specs/issues/310
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [OpenSchooling/GoogleClassroomKiosk](https://github.com/OpenSchooling/GoogleClassroomKiosk) (4 days ago) - A web app to allow students to join a Google Classroom
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
-- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (1 week ago) - 🏷️ GitHub Action to remove labels
 - [Pandapip1/.github](https://github.com/Pandapip1/.github) (1 week ago)
 
 #### 👪  Recent Followers
