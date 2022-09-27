@@ -28,7 +28,7 @@
 - [Pandapip1/ipfs-access-type-internet-draft](https://github.com/Pandapip1/ipfs-access-type-internet-draft) (today) - https://github.com/ipfs/specs/issues/310
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [OpenSchooling/GoogleClassroomKiosk](https://github.com/OpenSchooling/GoogleClassroomKiosk) (4 days ago) - A web app to allow students to join a Google Classroom
-- [Pandapip1/.github](https://github.com/Pandapip1/.github) (1 week ago)
+- [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (1 week ago) - 🏷️ GitHub Action to remove labels
 
 #### 👪  Recent Followers
 
