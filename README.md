@@ -24,7 +24,7 @@
 
 #### 🌱 Recent Contributions
 
-- [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (1 day ago) - https://github.com/ipfs/specs/issues/310
+- [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (today) - https://github.com/ipfs/specs/issues/310
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [OpenSchooling/GoogleClassroomKiosk](https://github.com/OpenSchooling/GoogleClassroomKiosk) (1 week ago) - A web app to allow students to join a Google Classroom
