@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (today) - https://github.com/ipfs/specs/issues/310
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [OpenSchooling/GoogleClassroomKiosk](https://github.com/OpenSchooling/GoogleClassroomKiosk) (1 week ago) - A web app to allow students to join a Google Classroom
 - [actions-ecosystem/action-remove-labels](https://github.com/actions-ecosystem/action-remove-labels) (2 weeks ago) - 🏷️ GitHub Action to remove labels
 
 #### 👪  Recent Followers
 
+- [Wael1231](https://github.com/Wael1231)
 - [09125631619](https://github.com/09125631619)
 - [Chiadikaobixo](https://github.com/Chiadikaobixo)
 - [deauna](https://github.com/deauna)
 - [mohammadhosein552zarei](https://github.com/mohammadhosein552zarei)
-- [jakerockland](https://github.com/jakerockland)
 
 
