@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Abu2rkyi](https://github.com/Abu2rkyi)
 - [kommander](https://github.com/kommander)
 - [mehmetbybz](https://github.com/mehmetbybz)
 - [Wael1231](https://github.com/Wael1231)
 - [09125631619](https://github.com/09125631619)
-- [Chiadikaobixo](https://github.com/Chiadikaobixo)
 
 
