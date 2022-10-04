@@ -24,10 +24,10 @@
 
 #### 🌱 Recent Contributions
 
-- [PortBlueSky/thread-puddle](https://github.com/PortBlueSky/thread-puddle) (today) - A small library to pool Node.js worker threads, automatically exposing exported module methods using Proxy Objects. :seedling:
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (3 days ago) - https://github.com/ipfs/specs/issues/310
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
+- [PortBlueSky/thread-puddle](https://github.com/PortBlueSky/thread-puddle) (1 day ago) - A small library to pool Node.js worker threads, automatically exposing exported module methods using Proxy Objects. :seedling:
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (4 days ago) - https://github.com/ipfs/specs/issues/310
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/GoogleClassroomKiosk](https://github.com/OpenSchooling/GoogleClassroomKiosk) (1 week ago) - A web app to allow students to join a Google Classroom
 
 #### 👪  Recent Followers
