@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (today) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
 - [PortBlueSky/thread-puddle](https://github.com/PortBlueSky/thread-puddle) (4 days ago) - A library to pool Node.js worker threads, automatically exposing exported module methods using Proxy Objects. :seedling:
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (1 week ago) - https://github.com/ipfs/specs/issues/310
-- [OpenSchooling/GoogleClassroomKiosk](https://github.com/OpenSchooling/GoogleClassroomKiosk) (2 weeks ago) - A web app to allow students to join a Google Classroom
 
 #### 👪  Recent Followers
 
