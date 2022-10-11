@@ -24,9 +24,9 @@
 
 #### 🌱 Recent Contributions
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
-- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (3 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (4 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [PortBlueSky/thread-puddle](https://github.com/PortBlueSky/thread-puddle) (1 week ago) - A library to pool Node.js worker threads, automatically exposing exported module methods using Proxy Objects. :seedling:
 - [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (1 week ago) - https://github.com/ipfs/specs/issues/310
 
