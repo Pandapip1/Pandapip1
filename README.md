@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (today) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (today) - Automatically add labels depending on Jekyll front matter attributes
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (4 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 day ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (1 day ago) - Automatically add labels depending on Jekyll front matter attributes
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (5 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 
 #### 👪  Recent Followers
 
