@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [wonkyDD](https://github.com/wonkyDD)
 - [dalakatt](https://github.com/dalakatt)
 - [Abu2rkyi](https://github.com/Abu2rkyi)
 - [kommander](https://github.com/kommander)
 - [mehmetbybz](https://github.com/mehmetbybz)
-- [Wael1231](https://github.com/Wael1231)
 
 
