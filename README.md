@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
+- [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (today) - https://github.com/ipfs/specs/issues/310
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 day ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 day ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (2 days ago) - Automatically add labels depending on Jekyll front matter attributes
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 #### 👪  Recent Followers
 
