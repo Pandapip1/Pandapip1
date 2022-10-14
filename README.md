@@ -24,8 +24,8 @@
 
 #### 🌱 Recent Contributions
 
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (today) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (1 day ago) - https://github.com/ipfs/specs/issues/310
-- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (2 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (3 days ago) - Automatically add labels depending on Jekyll front matter attributes
