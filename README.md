@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Haosy11](https://github.com/Haosy11)
 - [Tetita](https://github.com/Tetita)
 - [Joumax11](https://github.com/Joumax11)
 - [ilovespectra](https://github.com/ilovespectra)
 - [wonkyDD](https://github.com/wonkyDD)
-- [dalakatt](https://github.com/dalakatt)
 
 
