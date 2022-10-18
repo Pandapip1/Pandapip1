@@ -24,9 +24,9 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (today) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (5 days ago) - https://github.com/ipfs/specs/issues/310
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (6 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
