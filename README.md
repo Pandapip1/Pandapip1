@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (today) - Automatically add labels depending on Jekyll front matter attributes
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 day ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/multiaddr-access-type](https://github.com/Pandapip1/multiaddr-access-type) (6 days ago) - https://github.com/ipfs/specs/issues/310
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 week ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
 
+- [VeegaLabsOfficial](https://github.com/VeegaLabsOfficial)
 - [DePONotary](https://github.com/DePONotary)
 - [Haosy11](https://github.com/Haosy11)
 - [Tetita](https://github.com/Tetita)
 - [Joumax11](https://github.com/Joumax11)
-- [ilovespectra](https://github.com/ilovespectra)
 
 
