@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Ellajoke](https://github.com/Ellajoke)
 - [ryom0624](https://github.com/ryom0624)
 - [VeegaLabsOfficial](https://github.com/VeegaLabsOfficial)
 - [DePONotary](https://github.com/DePONotary)
 - [Haosy11](https://github.com/Haosy11)
-- [Tetita](https://github.com/Tetita)
 
 
