@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
-- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) (2 days ago) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (3 days ago) - Automatically add labels depending on Jekyll front matter attributes
-- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (4 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) (3 days ago) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (4 days ago) - Automatically add labels depending on Jekyll front matter attributes
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (5 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 
 #### 👪  Recent Followers
 
