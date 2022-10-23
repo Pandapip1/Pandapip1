@@ -25,7 +25,7 @@
 #### 🌱 Recent Contributions
 
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) (3 days ago) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (4 days ago) - Automatically add labels depending on Jekyll front matter attributes
