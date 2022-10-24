@@ -24,10 +24,10 @@
 
 #### 🌱 Recent Contributions
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/yellowpaper](https://github.com/ethereum/yellowpaper) (today) - The &#34;Yellow Paper&#34;: Ethereum&#39;s formal specification
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [eth-protocol-fellows/cohort-three](https://github.com/eth-protocol-fellows/cohort-three) (2 days ago) -  Repository for the third EPF cohort
-- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) (4 days ago) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
