@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [eth-protocol-fellows/cohort-three](https://github.com/eth-protocol-fellows/cohort-three) (1 day ago) -  Repository for the third EPF cohort
-- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) (3 days ago) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [eth-protocol-fellows/cohort-three](https://github.com/eth-protocol-fellows/cohort-three) (2 days ago) -  Repository for the third EPF cohort
+- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) (4 days ago) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
 
