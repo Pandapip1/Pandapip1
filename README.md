@@ -36,6 +36,6 @@
 - [Ellajoke](https://github.com/Ellajoke)
 - [ryom0624](https://github.com/ryom0624)
 - [VeegaLabsOfficial](https://github.com/VeegaLabsOfficial)
-- [DePONotary](https://github.com/DePONotary)
+- [BlockDepth](https://github.com/BlockDepth)
 
 
