@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [bloc13k](https://github.com/bloc13k)
+- [0xGabi](https://github.com/0xGabi)
 - [521314](https://github.com/521314)
 - [Ellajoke](https://github.com/Ellajoke)
 - [ryom0624](https://github.com/ryom0624)
-- [VeegaLabsOfficial](https://github.com/VeegaLabsOfficial)
-- [BlockDepth](https://github.com/BlockDepth)
 
 
