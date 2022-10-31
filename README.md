@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [dango198](https://github.com/dango198)
 - [Jooeys](https://github.com/Jooeys)
 - [esin](https://github.com/esin)
 - [Kwynto](https://github.com/Kwynto)
 - [bloc13k](https://github.com/bloc13k)
-- [0xGabi](https://github.com/0xGabi)
 
 
