@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [XuQiY](https://github.com/XuQiY)
 - [JonDevOps](https://github.com/JonDevOps)
 - [liq-technical-user](https://github.com/liq-technical-user)
 - [dango198](https://github.com/dango198)
 - [Jooeys](https://github.com/Jooeys)
-- [esin](https://github.com/esin)
 
 
