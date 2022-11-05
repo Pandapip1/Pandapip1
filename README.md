@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) (today) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 day ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (1 week ago) - Automatically add labels depending on Jekyll front matter attributes
-- [ethereum/yellowpaper](https://github.com/ethereum/yellowpaper) (1 week ago) - The &#34;Yellow Paper&#34;: Ethereum&#39;s formal specification
 
 #### 👪  Recent Followers
 
