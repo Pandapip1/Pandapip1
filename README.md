@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [abdulladoha](https://github.com/abdulladoha)
 - [nathanssantos](https://github.com/nathanssantos)
 - [WALI339](https://github.com/WALI339)
 - [samuelmonday6](https://github.com/samuelmonday6)
 - [Toblerone333](https://github.com/Toblerone333)
-- [XuQiY](https://github.com/XuQiY)
 
 
