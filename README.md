@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Generous001](https://github.com/Generous001)
 - [KUMARGAURAV20BCA1103](https://github.com/KUMARGAURAV20BCA1103)
 - [Moamer87](https://github.com/Moamer87)
 - [abdulladoha](https://github.com/abdulladoha)
 - [nathanssantos](https://github.com/nathanssantos)
-- [WALI339](https://github.com/WALI339)
 
 
