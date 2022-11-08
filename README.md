@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [dprajapati08439](https://github.com/dprajapati08439)
 - [oloiyah](https://github.com/oloiyah)
 - [yutoumeehon](https://github.com/yutoumeehon)
 - [Kubaqw](https://github.com/Kubaqw)
 - [Generous001](https://github.com/Generous001)
-- [KUMARGAURAV20BCA1103](https://github.com/KUMARGAURAV20BCA1103)
 
 
