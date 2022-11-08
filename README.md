@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (1 day ago) - Automatically add labels depending on Jekyll front matter attributes
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) (2 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (2 days ago) - Automatically add labels depending on Jekyll front matter attributes
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) (3 days ago) - OpenZeppelin Contracts is a library for secure smart contract development.
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
 
+- [Kubaqw](https://github.com/Kubaqw)
 - [Generous001](https://github.com/Generous001)
 - [KUMARGAURAV20BCA1103](https://github.com/KUMARGAURAV20BCA1103)
 - [Moamer87](https://github.com/Moamer87)
 - [abdulladoha](https://github.com/abdulladoha)
-- [nathanssantos](https://github.com/nathanssantos)
 
 
