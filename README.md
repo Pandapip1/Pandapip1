@@ -24,7 +24,7 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [ethereum/pm](https://github.com/ethereum/pm) (1 day ago) - Project Management: Meeting notes and agenda items
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
