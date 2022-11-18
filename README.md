@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
-- [ethereum/pm](https://github.com/ethereum/pm) (2 days ago) - Project Management: Meeting notes and agenda items
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [ethereum/pm](https://github.com/ethereum/pm) (3 days ago) - Project Management: Meeting notes and agenda items
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (5 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (1 week ago) - Automatically add labels depending on Jekyll front matter attributes
 
 #### 👪  Recent Followers
 
+- [Leylimahmud](https://github.com/Leylimahmud)
 - [Hardblock-IMSE-CNM](https://github.com/Hardblock-IMSE-CNM)
 - [mohamadkherad](https://github.com/mohamadkherad)
 - [brunoocaranza](https://github.com/brunoocaranza)
 - [dprajapati08439](https://github.com/dprajapati08439)
-- [oloiyah](https://github.com/oloiyah)
 
 
