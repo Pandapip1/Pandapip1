@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
+- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (today) - Request reviewers for EIP modifications
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [ethereum/pm](https://github.com/ethereum/pm) (3 days ago) - Project Management: Meeting notes and agenda items
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (5 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (1 week ago) - Automatically add labels depending on Jekyll front matter attributes
 
 #### 👪  Recent Followers
 
