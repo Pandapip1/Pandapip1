@@ -24,7 +24,7 @@
 
 #### 🌱 Recent Contributions
 
-- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
+- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (today) - Request reviewers for EIP modifications
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
 - [ethereum/pm](https://github.com/ethereum/pm) (4 days ago) - Project Management: Meeting notes and agenda items
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
