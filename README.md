@@ -24,8 +24,8 @@
 
 #### 🌱 Recent Contributions
 
+- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (today) - Request reviewers for EIP modifications
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [ethereum/pm](https://github.com/ethereum/pm) (6 days ago) - Project Management: Meeting notes and agenda items
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 week ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
