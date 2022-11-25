@@ -24,7 +24,7 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (4 days ago) - Request reviewers for EIP modifications
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (4 days ago) - Automatically add labels depending on Jekyll front matter attributes
@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [IMTHETRUTH2](https://github.com/IMTHETRUTH2)
 - [kalbroni7](https://github.com/kalbroni7)
 - [Leylimahmud](https://github.com/Leylimahmud)
 - [Hardblock-IMSE-CNM](https://github.com/Hardblock-IMSE-CNM)
 - [mohamadkherad](https://github.com/mohamadkherad)
-- [brunoocaranza](https://github.com/brunoocaranza)
 
 
