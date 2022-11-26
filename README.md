@@ -24,10 +24,10 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (4 days ago) - Request reviewers for EIP modifications
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (4 days ago) - Automatically add labels depending on Jekyll front matter attributes
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (5 days ago) - Request reviewers for EIP modifications
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (5 days ago) - Automatically add labels depending on Jekyll front matter attributes
 - [ethereum/pm](https://github.com/ethereum/pm) (1 week ago) - Project Management: Meeting notes and agenda items
 
 #### 👪  Recent Followers
