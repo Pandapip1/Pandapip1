@@ -24,8 +24,8 @@
 
 #### 🌱 Recent Contributions
 
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (6 days ago) - Request reviewers for EIP modifications
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (6 days ago) - Automatically add labels depending on Jekyll front matter attributes
 - [ethereum/pm](https://github.com/ethereum/pm) (1 week ago) - Project Management: Meeting notes and agenda items
