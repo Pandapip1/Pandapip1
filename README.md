@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
-- [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (today) - Your companion for writing EIPs
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (5 days ago) - Automatically add labels depending on Jekyll front matter attributes
+- [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (1 day ago) - Your companion for writing EIPs
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (5 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (6 days ago) - Automatically add labels depending on Jekyll front matter attributes
 
 #### 👪  Recent Followers
 
