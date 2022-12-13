@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (2 days ago) - Your companion for writing EIPs
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/ReplCraftSlots](https://github.com/Pandapip1/ReplCraftSlots) (5 days ago)
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 week ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 week ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
 
+- [ProPythonDev](https://github.com/ProPythonDev)
 - [adonis0907](https://github.com/adonis0907)
 - [Plentywolf](https://github.com/Plentywolf)
 - [CoffeeFam84](https://github.com/CoffeeFam84)
 - [blackdoc111](https://github.com/blackdoc111)
-- [IMTHETRUTH2](https://github.com/IMTHETRUTH2)
 
 
