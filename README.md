@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [5660-eth](https://github.com/5660-eth)
 - [Jillgrand](https://github.com/Jillgrand)
 - [ProPythonDev](https://github.com/ProPythonDev)
 - [adonis0907](https://github.com/adonis0907)
 - [Plentywolf](https://github.com/Plentywolf)
-- [CoffeeFam84](https://github.com/CoffeeFam84)
 
 
