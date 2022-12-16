@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Jillgrand](https://github.com/Jillgrand)
 - [ProPythonDev](https://github.com/ProPythonDev)
 - [adonis0907](https://github.com/adonis0907)
 - [Plentywolf](https://github.com/Plentywolf)
 - [CoffeeFam84](https://github.com/CoffeeFam84)
-- [blackdoc111](https://github.com/blackdoc111)
 
 
