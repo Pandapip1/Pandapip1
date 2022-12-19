@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) (1 day ago)
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (5 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (5 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
 
+- [Tomwslape5638](https://github.com/Tomwslape5638)
 - [ManiacEinstein](https://github.com/ManiacEinstein)
 - [5660-eth](https://github.com/5660-eth)
 - [Jillgrand](https://github.com/Jillgrand)
 - [ProPythonDev](https://github.com/ProPythonDev)
-- [adonis0907](https://github.com/adonis0907)
 
 
