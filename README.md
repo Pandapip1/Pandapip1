@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Erik4569](https://github.com/Erik4569)
 - [cfries](https://github.com/cfries)
 - [Tomwslape5638](https://github.com/Tomwslape5638)
 - [ManiacEinstein](https://github.com/ManiacEinstein)
 - [5660-eth](https://github.com/5660-eth)
-- [Jillgrand](https://github.com/Jillgrand)
 
 
