@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [mdalshamim16](https://github.com/mdalshamim16)
 - [Onisuboom](https://github.com/Onisuboom)
 - [NerdyDave2017](https://github.com/NerdyDave2017)
 - [todsac](https://github.com/todsac)
 - [ampdam](https://github.com/ampdam)
-- [BharatKumarKattela](https://github.com/BharatKumarKattela)
 
 
