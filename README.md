@@ -24,8 +24,8 @@
 
 #### 🌱 Recent Contributions
 
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 week ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [exo-digital-labs/ERC721R](https://github.com/exo-digital-labs/ERC721R) (1 week ago)
 - [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) (2 weeks ago)
