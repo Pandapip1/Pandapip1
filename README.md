@@ -24,11 +24,11 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (today) - Connect APIs, remarkably fast.  Free for developers.
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 weeks ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [exo-digital-labs/ERC721R](https://github.com/exo-digital-labs/ERC721R) (2 weeks ago)
-- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) (2 weeks ago)
 
 #### 👪  Recent Followers
 
