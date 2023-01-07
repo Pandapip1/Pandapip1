@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [boro327](https://github.com/boro327)
 - [LIVERSPREAD07](https://github.com/LIVERSPREAD07)
 - [Tomwslape5638](https://github.com/Tomwslape5638)
 - [mobleywa](https://github.com/mobleywa)
 - [Claudia1145](https://github.com/Claudia1145)
-- [mdalshamim16](https://github.com/mdalshamim16)
 
 
