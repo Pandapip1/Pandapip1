@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Al-Bidawe](https://github.com/Al-Bidawe)
 - [Hackedbyfamex](https://github.com/Hackedbyfamex)
 - [temchu](https://github.com/temchu)
 - [Sandalots](https://github.com/Sandalots)
 - [mohitpathak-admin](https://github.com/mohitpathak-admin)
-- [aminullah724](https://github.com/aminullah724)
 
 
