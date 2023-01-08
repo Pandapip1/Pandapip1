@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [RamdyManacap](https://github.com/RamdyManacap)
 - [suriyaa](https://github.com/suriyaa)
 - [boro327](https://github.com/boro327)
 - [LIVERSPREAD07](https://github.com/LIVERSPREAD07)
 - [Tomwslape5638](https://github.com/Tomwslape5638)
-- [mobleywa](https://github.com/mobleywa)
 
 
