@@ -24,10 +24,10 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [ethereum/execution-specs](https://github.com/ethereum/execution-specs) (1 day ago) - Specification for the Execution Layer. Tracking network upgrades.
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (1 day ago) - Connect APIs, remarkably fast.  Free for developers.
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/execution-specs](https://github.com/ethereum/execution-specs) (2 days ago) - Specification for the Execution Layer. Tracking network upgrades.
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (2 days ago) - Connect APIs, remarkably fast.  Free for developers.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 weeks ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
