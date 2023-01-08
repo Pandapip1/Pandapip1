@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Harbiodunwest](https://github.com/Harbiodunwest)
+- [Ramadhanmambo](https://github.com/Ramadhanmambo)
 - [Kyle1573](https://github.com/Kyle1573)
 - [RamdyManacap](https://github.com/RamdyManacap)
 - [suriyaa](https://github.com/suriyaa)
-- [boro327](https://github.com/boro327)
-- [LIVERSPREAD07](https://github.com/LIVERSPREAD07)
 
 
