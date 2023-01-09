@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Pasifista](https://github.com/Pasifista)
 - [Talaqalotaibipmp](https://github.com/Talaqalotaibipmp)
 - [nelson-jakingto](https://github.com/nelson-jakingto)
 - [Successogwudu](https://github.com/Successogwudu)
 - [BangDiaz](https://github.com/BangDiaz)
-- [Sobo2000](https://github.com/Sobo2000)
 
 
