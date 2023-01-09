@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Successogwudu](https://github.com/Successogwudu)
 - [BangDiaz](https://github.com/BangDiaz)
 - [Sobo2000](https://github.com/Sobo2000)
 - [vertias782](https://github.com/vertias782)
 - [Badlovesm33](https://github.com/Badlovesm33)
-- [sl33pygl1tches](https://github.com/sl33pygl1tches)
 
 
