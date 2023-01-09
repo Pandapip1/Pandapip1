@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [sl33pygl1tches](https://github.com/sl33pygl1tches)
 - [adict1](https://github.com/adict1)
 - [Al-Bidawe](https://github.com/Al-Bidawe)
 - [Hackedbyfamex](https://github.com/Hackedbyfamex)
 - [temchu](https://github.com/temchu)
-- [Sandalots](https://github.com/Sandalots)
 
 
