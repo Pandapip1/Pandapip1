@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [hussamgalal999](https://github.com/hussamgalal999)
 - [Pasifista](https://github.com/Pasifista)
 - [Talaqalotaibipmp](https://github.com/Talaqalotaibipmp)
 - [nelson-jakingto](https://github.com/nelson-jakingto)
 - [Successogwudu](https://github.com/Successogwudu)
-- [BangDiaz](https://github.com/BangDiaz)
 
 
