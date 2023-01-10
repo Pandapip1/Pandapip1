@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [sheraadams](https://github.com/sheraadams)
+- [Youngmaster2](https://github.com/Youngmaster2)
 - [Amirrezva](https://github.com/Amirrezva)
 - [EXPENDEE](https://github.com/EXPENDEE)
 - [gardnerpp](https://github.com/gardnerpp)
-- [Wasiu10](https://github.com/Wasiu10)
-- [Gloryboi231](https://github.com/Gloryboi231)
 
 
