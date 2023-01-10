@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Farzin1980](https://github.com/Farzin1980)
+- [IqraKashif1iki](https://github.com/IqraKashif1iki)
 - [hussamgalal999](https://github.com/hussamgalal999)
 - [Pasifista](https://github.com/Pasifista)
 - [Talaqalotaibipmp](https://github.com/Talaqalotaibipmp)
-- [nelson-jakingto](https://github.com/nelson-jakingto)
-- [Successogwudu](https://github.com/Successogwudu)
 
 
