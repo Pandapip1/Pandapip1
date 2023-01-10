@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Amirrezva](https://github.com/Amirrezva)
 - [EXPENDEE](https://github.com/EXPENDEE)
 - [gardnerpp](https://github.com/gardnerpp)
 - [Wasiu10](https://github.com/Wasiu10)
 - [Gloryboi231](https://github.com/Gloryboi231)
-- [Farzin1980](https://github.com/Farzin1980)
 
 
