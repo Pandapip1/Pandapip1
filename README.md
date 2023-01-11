@@ -24,18 +24,18 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/execution-specs](https://github.com/ethereum/execution-specs) (4 days ago) - Specification for the Execution Layer. Tracking network upgrades.
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (4 days ago) - Connect APIs, remarkably fast.  Free for developers.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/execution-specs](https://github.com/ethereum/execution-specs) (5 days ago) - Specification for the Execution Layer. Tracking network upgrades.
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (5 days ago) - Connect APIs, remarkably fast.  Free for developers.
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 weeks ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 
 #### 👪  Recent Followers
 
+- [Antonyspeedy45](https://github.com/Antonyspeedy45)
 - [144bharat](https://github.com/144bharat)
 - [Lucha-88](https://github.com/Lucha-88)
 - [KozlovvvAlex](https://github.com/KozlovvvAlex)
 - [Tahircoder](https://github.com/Tahircoder)
-- [Krystalklearkonnextions](https://github.com/Krystalklearkonnextions)
 
 
