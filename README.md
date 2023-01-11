@@ -24,7 +24,7 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/execution-specs](https://github.com/ethereum/execution-specs) (5 days ago) - Specification for the Execution Layer. Tracking network upgrades.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (5 days ago) - Connect APIs, remarkably fast.  Free for developers.
