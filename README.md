@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [Grod18rus](https://github.com/Grod18rus)
 - [EEEREEE-ereer](https://github.com/EEEREEE-ereer)
 - [Antonyspeedy45](https://github.com/Antonyspeedy45)
 - [144bharat](https://github.com/144bharat)
 - [Lucha-88](https://github.com/Lucha-88)
-- [KozlovvvAlex](https://github.com/KozlovvvAlex)
 
 
