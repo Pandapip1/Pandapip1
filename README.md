@@ -32,10 +32,10 @@
 
 #### 👪  Recent Followers
 
+- [opuu](https://github.com/opuu)
 - [ilovealbasit](https://github.com/ilovealbasit)
 - [AlfredoMMhjkgg](https://github.com/AlfredoMMhjkgg)
 - [Grod18rus](https://github.com/Grod18rus)
 - [EEEREEE-ereer](https://github.com/EEEREEE-ereer)
-- [Antonyspeedy45](https://github.com/Antonyspeedy45)
 
 
