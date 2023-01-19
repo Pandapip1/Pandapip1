@@ -96,7 +96,7 @@
 
 - [ethscript/.github](https://github.com/ethscript/.github) (today)
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
-- [Pandapip1/addresstoken](https://github.com/Pandapip1/addresstoken) (today) - Tokenize addresses
+- [Pandapip1/addresstoken](https://github.com/Pandapip1/addresstoken) (today) - Tokenize addresses using trakon deploytoken
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
