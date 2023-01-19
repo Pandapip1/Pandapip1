@@ -94,8 +94,8 @@
 
 #### 🌱 Recent Contributions
 
-- [ethscript/.github](https://github.com/ethscript/.github) (today)
 - [ethscript/ethscript-language](https://github.com/ethscript/ethscript-language) (today) - Ethscript allows you to code smart contracts for Ethereum using pure TypeScript
+- [ethscript/.github](https://github.com/ethscript/.github) (today)
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (1 week ago) - Connect APIs, remarkably fast.  Free for developers.
