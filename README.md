@@ -94,11 +94,11 @@
 
 #### 🌱 Recent Contributions
 
-- [ethscript/.github](https://github.com/ethscript/.github) (today)
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (1 week ago) - Connect APIs, remarkably fast.  Free for developers.
+- [ethscript/.github](https://github.com/ethscript/.github) (1 day ago)
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) (2 weeks ago) - Connect APIs, remarkably fast.  Free for developers.
 
 #### 👪  Recent Followers
 
