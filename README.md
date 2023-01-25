@@ -94,18 +94,18 @@
 
 #### 🌱 Recent Contributions
 
-- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (today) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethscript/.github](https://github.com/ethscript/.github) (5 days ago)
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 day ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethscript/.github](https://github.com/ethscript/.github) (6 days ago)
 
 #### 👪  Recent Followers
 
+- [tstreets14755](https://github.com/tstreets14755)
 - [lekapoe](https://github.com/lekapoe)
 - [godkingjay](https://github.com/godkingjay)
 - [cowley86-cmd](https://github.com/cowley86-cmd)
 - [han0147](https://github.com/han0147)
-- [LocalLegend517](https://github.com/LocalLegend517)
 
 
