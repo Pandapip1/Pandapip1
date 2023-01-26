@@ -1,5 +1,4 @@
 [![Website](https://img.shields.io/badge/Website-pandapip1.com-9c7?style=for-the-badge&)](https://pandapip1.com)
-[![Profile Visits](https://komarev.com/ghpvc/?username=Pandapip1&style=for-the-badge)](https://github.com/Pandapip1)
 
 <p align="center">
   <picture>
@@ -95,11 +94,11 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 day ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethscript/.github](https://github.com/ethscript/.github) (6 days ago)
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (2 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethscript/.github](https://github.com/ethscript/.github) (1 week ago)
 
 #### 👪  Recent Followers
 
