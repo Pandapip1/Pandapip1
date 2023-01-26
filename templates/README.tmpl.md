@@ -1,4 +1,5 @@
 [![Website](https://img.shields.io/badge/Website-pandapip1.com-9c7?style=for-the-badge&)](https://pandapip1.com)
+[![Profile Visits](https://komarev.com/ghpvc/?username=Pandapip1&style=for-the-badge)](https://github.com/Pandapip1)
 
 <p align="center">
   <picture>
