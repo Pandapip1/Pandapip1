@@ -106,7 +106,7 @@
 - [chiro-hiro](https://github.com/chiro-hiro)
 - [tstreets14755](https://github.com/tstreets14755)
 - [lekapoe](https://github.com/lekapoe)
-- [godkingjay](https://github.com/godkingjay)
 - [cowley86-cmd](https://github.com/cowley86-cmd)
+- [han0147](https://github.com/han0147)
 
 
