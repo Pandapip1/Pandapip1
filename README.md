@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Luca-Blight](https://github.com/Luca-Blight)
 - [PatrickAlphaC](https://github.com/PatrickAlphaC)
 - [SamBigcr-6hG](https://github.com/SamBigcr-6hG)
 - [GhosTHaise](https://github.com/GhosTHaise)
 - [Wicheian131](https://github.com/Wicheian131)
-- [chiro-hiro](https://github.com/chiro-hiro)
 
 
