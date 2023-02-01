@@ -95,9 +95,9 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (4 days ago) - Typescript Template
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 week ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [ethscript/.github](https://github.com/ethscript/.github) (1 week ago)
 
