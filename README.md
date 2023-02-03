@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [vbidin](https://github.com/vbidin)
 - [stoooops](https://github.com/stoooops)
 - [Learn2Bee](https://github.com/Learn2Bee)
 - [ShayneMichaelBacik123](https://github.com/ShayneMichaelBacik123)
 - [AdrianGeorgeM](https://github.com/AdrianGeorgeM)
-- [Luca-Blight](https://github.com/Luca-Blight)
 
 
