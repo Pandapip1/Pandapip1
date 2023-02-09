@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [augustweinbren](https://github.com/augustweinbren)
 - [Josejjj10](https://github.com/Josejjj10)
 - [shobeirimajid](https://github.com/shobeirimajid)
 - [toursonlk](https://github.com/toursonlk)
 - [vbidin](https://github.com/vbidin)
-- [stoooops](https://github.com/stoooops)
 
 
