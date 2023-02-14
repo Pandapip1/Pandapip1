@@ -4,14 +4,14 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Pandapip1&show_icons=true&count_private=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=Pandapip1&show_icons=true&count_private=false&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Pandapip1&show_icons=true&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Pandapip1&show_icons=true&count_private=false"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Pandapip1&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pandapip1&show_icons=true&count_private=false" />
   </picture>
   <picture>
     <source 
@@ -95,8 +95,8 @@
 
 #### 🌱 Recent Contributions
 
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (6 days ago) - Automatically add labels depending on Jekyll front matter attributes
 - [Pandapip1/eip-review-bot](https://github.com/Pandapip1/eip-review-bot) (6 days ago) - Request reviewers for EIP modifications
