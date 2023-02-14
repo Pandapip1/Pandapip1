@@ -65,17 +65,17 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=jekyll-label-action" />
     </picture>
   </a>
-  <a href="https://github.com/Pandapip1/mineflayer-swarm">
+  <a href="https://github.com/Pandapip1/TomogramDistances">
     <picture align="center">
       <source 
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=mineflayer-swarm&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=TomogramDistances&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=mineflayer-swarm"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=TomogramDistances"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=mineflayer-swarm" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pandapip1&repo=TomogramDistances" />
     </picture>
   </a>
   <a href="https://github.com/OpenSchooling/AccentPress">
