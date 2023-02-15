@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [jchaz22](https://github.com/jchaz22)
 - [akshay-rakheja](https://github.com/akshay-rakheja)
 - [armsomboon1](https://github.com/armsomboon1)
 - [augustweinbren](https://github.com/augustweinbren)
 - [Josejjj10](https://github.com/Josejjj10)
-- [shobeirimajid](https://github.com/shobeirimajid)
 
 
