@@ -95,9 +95,9 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (4 days ago) - Request reviewers for EIP modifications
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (1 week ago) - Automatically add labels depending on Jekyll front matter attributes
 
