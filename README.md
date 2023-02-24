@@ -96,10 +96,10 @@
 #### 🌱 Recent Contributions
 
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (today) - Request reviewers for EIP modifications
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (2 days ago) - Automatically add labels depending on Jekyll front matter attributes
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
 
 #### 👪  Recent Followers
 
