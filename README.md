@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Opoku-Wiafe](https://github.com/Opoku-Wiafe)
 - [youngwookna](https://github.com/youngwookna)
 - [Susovandj2](https://github.com/Susovandj2)
 - [ChristianGrengl](https://github.com/ChristianGrengl)
 - [codingshot](https://github.com/codingshot)
-- [ziljah](https://github.com/ziljah)
 
 
