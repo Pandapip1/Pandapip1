@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Susovandj2](https://github.com/Susovandj2)
 - [ChristianGrengl](https://github.com/ChristianGrengl)
 - [codingshot](https://github.com/codingshot)
 - [ziljah](https://github.com/ziljah)
 - [abhi-apple](https://github.com/abhi-apple)
-- [taxio](https://github.com/taxio)
 
 
