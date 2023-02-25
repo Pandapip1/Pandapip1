@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Janxinka](https://github.com/Janxinka)
+- [Shakeel9410](https://github.com/Shakeel9410)
 - [Yunasafridi308](https://github.com/Yunasafridi308)
 - [Fedotff](https://github.com/Fedotff)
 - [kassahun-addiss](https://github.com/kassahun-addiss)
-- [LIHITAB](https://github.com/LIHITAB)
-- [githhubtuhin](https://github.com/githhubtuhin)
 
 
