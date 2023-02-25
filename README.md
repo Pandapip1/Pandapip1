@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Auwalabdullahi3934](https://github.com/Auwalabdullahi3934)
 - [SenkuXP](https://github.com/SenkuXP)
 - [moezetlay](https://github.com/moezetlay)
 - [HoodRay](https://github.com/HoodRay)
 - [BRONTOKROP](https://github.com/BRONTOKROP)
-- [Abella77](https://github.com/Abella77)
 
 
