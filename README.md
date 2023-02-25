@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [HoodRay](https://github.com/HoodRay)
 - [BRONTOKROP](https://github.com/BRONTOKROP)
 - [Abella77](https://github.com/Abella77)
 - [Opoku-Wiafe](https://github.com/Opoku-Wiafe)
 - [youngwookna](https://github.com/youngwookna)
-- [Susovandj2](https://github.com/Susovandj2)
 
 
