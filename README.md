@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
-- [discozavr](https://github.com/discozavr)
-- [freedomzorro](https://github.com/freedomzorro)
-- [pokerwinter](https://github.com/pokerwinter)
-- [partywhynot](https://github.com/partywhynot)
-- [alwaysneverpro](https://github.com/alwaysneverpro)
+- [totalstrong](https://github.com/totalstrong)
+- [freedompoker](https://github.com/freedompoker)
+- [aderullyakbar2](https://github.com/aderullyakbar2)
+- [cowboyedition](https://github.com/cowboyedition)
+- [poomzoom](https://github.com/poomzoom)
 
 
