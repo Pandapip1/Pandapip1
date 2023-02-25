@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [discozavr](https://github.com/discozavr)
+- [freedomzorro](https://github.com/freedomzorro)
+- [pokerwinter](https://github.com/pokerwinter)
+- [partywhynot](https://github.com/partywhynot)
 - [alwaysneverpro](https://github.com/alwaysneverpro)
-- [futureshark](https://github.com/futureshark)
-- [Auwalabdullahi3934](https://github.com/Auwalabdullahi3934)
-- [SenkuXP](https://github.com/SenkuXP)
-- [moezetlay](https://github.com/moezetlay)
 
 
