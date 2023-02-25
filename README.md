@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Fedotff](https://github.com/Fedotff)
 - [kassahun-addiss](https://github.com/kassahun-addiss)
 - [LIHITAB](https://github.com/LIHITAB)
 - [githhubtuhin](https://github.com/githhubtuhin)
 - [Botino888](https://github.com/Botino888)
-- [pusty1830](https://github.com/pusty1830)
 
 
