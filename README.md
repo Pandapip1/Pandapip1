@@ -95,7 +95,7 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Powfulbadextech](https://github.com/Powfulbadextech)
 - [choyeah](https://github.com/choyeah)
 - [konjoinfinity](https://github.com/konjoinfinity)
 - [AngeloFedericoTassotti1991Prag](https://github.com/AngeloFedericoTassotti1991Prag)
 - [centeafx444](https://github.com/centeafx444)
-- [Janxinka](https://github.com/Janxinka)
 
 
