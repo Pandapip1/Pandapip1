@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [choyeah](https://github.com/choyeah)
 - [konjoinfinity](https://github.com/konjoinfinity)
 - [AngeloFedericoTassotti1991Prag](https://github.com/AngeloFedericoTassotti1991Prag)
 - [centeafx444](https://github.com/centeafx444)
 - [Janxinka](https://github.com/Janxinka)
-- [Shakeel9410](https://github.com/Shakeel9410)
 
 
