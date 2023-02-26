@@ -95,18 +95,18 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (3 days ago) - Automatically add labels depending on Jekyll front matter attributes
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (4 days ago) - Automatically add labels depending on Jekyll front matter attributes
 
 #### 👪  Recent Followers
 
+- [centeafx444](https://github.com/centeafx444)
 - [Janxinka](https://github.com/Janxinka)
 - [Shakeel9410](https://github.com/Shakeel9410)
 - [Yunasafridi308](https://github.com/Yunasafridi308)
 - [Fedotff](https://github.com/Fedotff)
-- [kassahun-addiss](https://github.com/kassahun-addiss)
 
 
