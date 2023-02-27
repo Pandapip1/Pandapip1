@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [DAVIDCOMPUTERSAPPLICATIONS](https://github.com/DAVIDCOMPUTERSAPPLICATIONS)
 - [piyush2057](https://github.com/piyush2057)
 - [m3ruem](https://github.com/m3ruem)
 - [Bushra-KB](https://github.com/Bushra-KB)
 - [MajinBuuNe-Ahihi](https://github.com/MajinBuuNe-Ahihi)
-- [LauraJimVal](https://github.com/LauraJimVal)
 
 
