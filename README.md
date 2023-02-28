@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Jigyasa05](https://github.com/Jigyasa05)
 - [Yazanhasanssa](https://github.com/Yazanhasanssa)
 - [code-dreamer-xyz](https://github.com/code-dreamer-xyz)
 - [DAVIDCOMPUTERSAPPLICATIONS](https://github.com/DAVIDCOMPUTERSAPPLICATIONS)
 - [piyush2057](https://github.com/piyush2057)
-- [m3ruem](https://github.com/m3ruem)
 
 
