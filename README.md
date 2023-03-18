@@ -95,10 +95,10 @@
 
 #### 🌱 Recent Contributions
 
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (today) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [cryptohub-digital/payto](https://github.com/cryptohub-digital/payto) (1 day ago) - Decentralized transfer of Assets
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 #### 👪  Recent Followers
