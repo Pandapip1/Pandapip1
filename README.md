@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [aibitrum](https://github.com/aibitrum)
 - [Bilalezzer](https://github.com/Bilalezzer)
 - [Jslick101](https://github.com/Jslick101)
 - [Andersoncharles](https://github.com/Andersoncharles)
 - [NelsonJohnny](https://github.com/NelsonJohnny)
-- [Andrey810](https://github.com/Andrey810)
 
 
