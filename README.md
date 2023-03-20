@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [usman-2000](https://github.com/usman-2000)
 - [aibitrum](https://github.com/aibitrum)
 - [Bilalezzer](https://github.com/Bilalezzer)
 - [Jslick101](https://github.com/Jslick101)
 - [Andersoncharles](https://github.com/Andersoncharles)
-- [NelsonJohnny](https://github.com/NelsonJohnny)
 
 
