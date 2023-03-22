@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [renlulu](https://github.com/renlulu)
 - [JackSparO3](https://github.com/JackSparO3)
 - [Skylerspencer](https://github.com/Skylerspencer)
 - [usman-2000](https://github.com/usman-2000)
 - [aibitrum](https://github.com/aibitrum)
-- [Bilalezzer](https://github.com/Bilalezzer)
 
 
