@@ -95,7 +95,7 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (today) - Request reviewers for EIP modifications
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
