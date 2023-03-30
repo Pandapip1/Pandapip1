@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
-- [splamadeala](https://github.com/splamadeala)
+- [top1131](https://github.com/top1131)
+- [Stephanie-codes](https://github.com/Stephanie-codes)
 - [schneiderfelipe](https://github.com/schneiderfelipe)
 - [marthinarnaud](https://github.com/marthinarnaud)
 - [REBELminds249](https://github.com/REBELminds249)
-- [aravindhkm](https://github.com/aravindhkm)
 
 
