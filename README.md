@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [atifnimran](https://github.com/atifnimran)
+- [Felicio-Jessica](https://github.com/Felicio-Jessica)
 - [johnfrandes121296](https://github.com/johnfrandes121296)
 - [haneydogs8888](https://github.com/haneydogs8888)
 - [top1131](https://github.com/top1131)
-- [Stephanie-codes](https://github.com/Stephanie-codes)
-- [schneiderfelipe](https://github.com/schneiderfelipe)
 
 
