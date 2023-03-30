@@ -95,18 +95,18 @@
 
 #### 🌱 Recent Contributions
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [ethereum/eipw](https://github.com/ethereum/eipw) (1 day ago)
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (1 day ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 #### 👪  Recent Followers
 
+- [schneiderfelipe](https://github.com/schneiderfelipe)
 - [marthinarnaud](https://github.com/marthinarnaud)
 - [REBELminds249](https://github.com/REBELminds249)
 - [aravindhkm](https://github.com/aravindhkm)
 - [420illcutta420](https://github.com/420illcutta420)
-- [laika255](https://github.com/laika255)
 
 
