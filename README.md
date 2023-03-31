@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [CyberDanni](https://github.com/CyberDanni)
+- [joaokoball](https://github.com/joaokoball)
 - [azilRababe](https://github.com/azilRababe)
 - [mohitkumarrawat](https://github.com/mohitkumarrawat)
 - [aversh1](https://github.com/aversh1)
-- [kingmammad0](https://github.com/kingmammad0)
-- [charlesakhere](https://github.com/charlesakhere)
 
 
