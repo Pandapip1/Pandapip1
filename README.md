@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [sunnysingh2003](https://github.com/sunnysingh2003)
 - [nicnovac](https://github.com/nicnovac)
 - [metolinamy](https://github.com/metolinamy)
 - [gmimran01](https://github.com/gmimran01)
 - [BHAIsandeep](https://github.com/BHAIsandeep)
-- [Deborah-Mokeira](https://github.com/Deborah-Mokeira)
 
 
