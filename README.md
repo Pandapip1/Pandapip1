@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [mohitkumarrawat](https://github.com/mohitkumarrawat)
 - [aversh1](https://github.com/aversh1)
 - [kingmammad0](https://github.com/kingmammad0)
 - [charlesakhere](https://github.com/charlesakhere)
 - [hemanthnagasai](https://github.com/hemanthnagasai)
-- [nikolkru1](https://github.com/nikolkru1)
 
 
