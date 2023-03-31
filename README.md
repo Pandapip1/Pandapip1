@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Neeshu143](https://github.com/Neeshu143)
 - [boyblue87](https://github.com/boyblue87)
 - [Brkozshn](https://github.com/Brkozshn)
 - [atifnimran](https://github.com/atifnimran)
 - [Felicio-Jessica](https://github.com/Felicio-Jessica)
-- [johnfrandes121296](https://github.com/johnfrandes121296)
 
 
