@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [gmimran01](https://github.com/gmimran01)
 - [BHAIsandeep](https://github.com/BHAIsandeep)
 - [Deborah-Mokeira](https://github.com/Deborah-Mokeira)
 - [lewisz25](https://github.com/lewisz25)
 - [CyberDanni](https://github.com/CyberDanni)
-- [joaokoball](https://github.com/joaokoball)
 
 
