@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Efooli](https://github.com/Efooli)
 - [maoqxm1](https://github.com/maoqxm1)
 - [Asif2626](https://github.com/Asif2626)
 - [godsent1234](https://github.com/godsent1234)
 - [sunnysingh2003](https://github.com/sunnysingh2003)
-- [nicnovac](https://github.com/nicnovac)
 
 
