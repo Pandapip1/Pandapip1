@@ -95,11 +95,11 @@
 
 #### 🌱 Recent Contributions
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
-- [ethereum/eipw](https://github.com/ethereum/eipw) (2 days ago)
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (2 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [ethereum/eipw](https://github.com/ethereum/eipw) (3 days ago)
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (3 days ago) - Request reviewers for EIP modifications
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (3 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 #### 👪  Recent Followers
 
