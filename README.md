@@ -95,18 +95,18 @@
 
 #### 🌱 Recent Contributions
 
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (today) - Typescript Template
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (5 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [ethereum/eipw](https://github.com/ethereum/eipw) (5 days ago)
 
 #### 👪  Recent Followers
 
+- [qd-qd](https://github.com/qd-qd)
 - [ARSecurityTeam](https://github.com/ARSecurityTeam)
 - [eZyxC1-hub](https://github.com/eZyxC1-hub)
 - [Md-Nuruzzaman-islam](https://github.com/Md-Nuruzzaman-islam)
 - [Bellagina1975](https://github.com/Bellagina1975)
-- [Loss-Life](https://github.com/Loss-Life)
 
 
