@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [Md-Nuruzzaman-islam](https://github.com/Md-Nuruzzaman-islam)
 - [Bellagina1975](https://github.com/Bellagina1975)
 - [Loss-Life](https://github.com/Loss-Life)
 - [Gaynelpaul1](https://github.com/Gaynelpaul1)
 - [subhanabdi](https://github.com/subhanabdi)
-- [deopit176](https://github.com/deopit176)
 
 
