@@ -95,18 +95,18 @@
 
 #### 🌱 Recent Contributions
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
-- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (4 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
-- [ethereum/eipw](https://github.com/ethereum/eipw) (4 days ago)
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
+- [Pandapip1/CustomTokens](https://github.com/Pandapip1/CustomTokens) (5 days ago) - A DApp for easily deploying ERC20 tokens with redistribution properties
+- [ethereum/eipw](https://github.com/ethereum/eipw) (5 days ago)
 
 #### 👪  Recent Followers
 
+- [deopit176](https://github.com/deopit176)
 - [kocserkan1](https://github.com/kocserkan1)
 - [Bramsipuor](https://github.com/Bramsipuor)
 - [SAdeqaliza](https://github.com/SAdeqaliza)
 - [Mahdipzr](https://github.com/Mahdipzr)
-- [Sanghyang20](https://github.com/Sanghyang20)
 
 
