@@ -103,10 +103,10 @@
 
 #### 👪  Recent Followers
 
+- [ARSecurityTeam](https://github.com/ARSecurityTeam)
+- [eZyxC1-hub](https://github.com/eZyxC1-hub)
 - [Md-Nuruzzaman-islam](https://github.com/Md-Nuruzzaman-islam)
 - [Bellagina1975](https://github.com/Bellagina1975)
 - [Loss-Life](https://github.com/Loss-Life)
-- [Gaynelpaul1](https://github.com/Gaynelpaul1)
-- [subhanabdi](https://github.com/subhanabdi)
 
 
