@@ -95,18 +95,18 @@
 
 #### 🌱 Recent Contributions
 
-- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (today)
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (1 day ago)
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (3 days ago) - Request reviewers for EIP modifications
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 week ago) - The Ethereum Improvement Proposal repository
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 week ago) - Typescript Template
 
 #### 👪  Recent Followers
 
+- [Ameralameri](https://github.com/Ameralameri)
 - [aguusxdxd2](https://github.com/aguusxdxd2)
 - [Pedro923](https://github.com/Pedro923)
 - [JiuBanA1](https://github.com/JiuBanA1)
 - [ihorflad](https://github.com/ihorflad)
-- [butlerssarah](https://github.com/butlerssarah)
 
 
