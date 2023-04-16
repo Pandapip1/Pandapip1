@@ -91,8 +91,8 @@ Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Ni
 ## 👪  Recent Followers
 
 
+- [Shicri](https://github.com/Shicri)
 - [AZURE-ARC-0](https://github.com/AZURE-ARC-0)
 - [GloWE3](https://github.com/GloWE3)
 - [westonnelson](https://github.com/westonnelson)
 - [Dion400](https://github.com/Dion400)
-- [Ameralameri](https://github.com/Ameralameri)
