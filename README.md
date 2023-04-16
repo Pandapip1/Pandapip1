@@ -82,17 +82,17 @@ Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Ni
 ## 🌱 Recent Contributions
 
 
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (2 days ago)
 - [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (2 days ago)
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 week ago) - Request reviewers for EIP modifications
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 ## 👪  Recent Followers
 
 
+- [AZURE-ARC-0](https://github.com/AZURE-ARC-0)
 - [GloWE3](https://github.com/GloWE3)
 - [westonnelson](https://github.com/westonnelson)
 - [Dion400](https://github.com/Dion400)
 - [Ameralameri](https://github.com/Ameralameri)
-- [aguusxdxd2](https://github.com/aguusxdxd2)
