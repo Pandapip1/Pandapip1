@@ -82,10 +82,10 @@ Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Ni
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (today)
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (2 days ago)
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
+- [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (1 day ago)
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (3 days ago)
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 week ago) - Request reviewers for EIP modifications
 
 ## 👪  Recent Followers
