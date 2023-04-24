@@ -91,8 +91,8 @@ Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Ni
 ## 👪  Recent Followers
 
 
+- [alexsio27444](https://github.com/alexsio27444)
 - [randomishwalk](https://github.com/randomishwalk)
 - [Mentado111](https://github.com/Mentado111)
 - [TeoGalaxy](https://github.com/TeoGalaxy)
 - [5r33n](https://github.com/5r33n)
-- [devlancer-lucas](https://github.com/devlancer-lucas)
