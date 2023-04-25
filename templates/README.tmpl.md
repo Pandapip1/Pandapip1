@@ -79,6 +79,24 @@ Fares Saïdi, Utkarsha Mahanta, Adyasha Panda, Ahmad A Kezzo, Nicolas Y Jolivet,
 
 Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Nicholas John, Lisa K McLellan, and Audrey Ragan Odom John. 2022. “GAPDH mediates drug resistance and metabolism in *Plasmodium falciparum* malaria parasites” *PLoS pathogens*, https://doi.org/10.1371/journal.ppat.1010803
 
+### Ethereum Improvement Proposals
+
+I apologize for the mistake. Here are the citations with the GitHub links added:
+
+Dan Finlay ([@danfinlay](https://github.com/danfinlay)), Esteban Mino ([@estebanmino](https://github.com/estebanmino)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "EIP-747: wallet_watchAsset RPC Method," *Ethereum Improvement Proposals*, no. 747, August 2018. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-747.
+
+Tommy Nicholas ([@tomasienrbc](https://github.com/tomasienrbc)), Matt Russo ([@mateosu](https://github.com/mateosu)), John Zettler ([@JohnZettler](https://github.com/JohnZettler)), Matt Condon ([@shrugs](https://github.com/shrugs)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "ERC-1046: tokenURI Interoperability," *Ethereum Improvement Proposals*, no. 1046, April 2018. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-1046.
+
+Dan Finlay ([@danfinlay](https://github.com/danfinlay)), Erik Marks ([@rekmarks](https://github.com/rekmarks)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "EIP-2255: Wallet Permissions System," *Ethereum Improvement Proposals*, no. 2255, August 2019. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-2255.
+
+Ronan Sandford ([@wighawag](https://github.com/wighawag)), Liraz Siri ([@lirazsiri](https://github.com/lirazsiri)), Dror Tirosh ([@drortirosh](https://github.com/drortirosh)), Yoav Weiss ([@yoavw](https://github.com/yoavw)), Alex Forshtat ([@forshtat](https://github.com/forshtat)), Hadrien Croubois ([@Amxx](https://github.com/Amxx)), Sachin Tomar ([@tomarsachin2271](https://github.com/tomarsachin2271)), Patrick McCorry ([@stonecoldpat](https://github.com/stonecoldpat)), Nicolas Venturo ([@nventuro](https://github.com/nventuro)), Fabian Vogelsteller ([@frozeman](https://github.com/frozeman)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "ERC-2771: Secure Protocol for Native Meta Transactions," *Ethereum Improvement Proposals*, no. 2771, July 2020. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-2771.
+
+Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "ERC-4834: Hierarchical Domains," *Ethereum Improvement Proposals*, no. 4834, February 2022. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-4834.
+
+Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "ERC-5219: Contract Resource Requests," *Ethereum Improvement Proposals*, no. 5219, July 2022. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-5219.
+
+Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@TimDaub](https://github.com/TimDaub)), "ERC-5380: ERC-721 Entitlement Extension," *Ethereum Improvement Proposals*, no. 5380, March 2022. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-5380.
+
 ## 🌱 Recent Contributions
 
 {{range recentContributions 5}}
