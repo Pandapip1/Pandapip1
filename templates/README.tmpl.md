@@ -81,8 +81,6 @@ Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Ni
 
 ### Ethereum Improvement Proposals
 
-I apologize for the mistake. Here are the citations with the GitHub links added:
-
 Dan Finlay ([@danfinlay](https://github.com/danfinlay)), Esteban Mino ([@estebanmino](https://github.com/estebanmino)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "EIP-747: wallet_watchAsset RPC Method," *Ethereum Improvement Proposals*, no. 747, August 2018. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-747.
 
 Tommy Nicholas ([@tomasienrbc](https://github.com/tomasienrbc)), Matt Russo ([@mateosu](https://github.com/mateosu)), John Zettler ([@JohnZettler](https://github.com/JohnZettler)), Matt Condon ([@shrugs](https://github.com/shrugs)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "ERC-1046: tokenURI Interoperability," *Ethereum Improvement Proposals*, no. 1046, April 2018. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-1046.
