@@ -98,8 +98,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/3webs-browser](https://github.com/3webs-org/3webs-browser) (today) - The 3webs browser: the state-of-the-art Ethereum-native web browser
 - [3webs-org/.github](https://github.com/3webs-org/.github) (1 day ago)
-- [3webs-org/3webs-browser](https://github.com/3webs-org/3webs-browser) (1 day ago) - The 3webs browser: the state-of-the-art Ethereum-native web browser
 - [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (3 days ago)
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
