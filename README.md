@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
-- [Chyba1997](https://github.com/Chyba1997)
 - [Firas-Saafi](https://github.com/Firas-Saafi)
 - [alexsio27444](https://github.com/alexsio27444)
 - [randomishwalk](https://github.com/randomishwalk)
 - [Mentado111](https://github.com/Mentado111)
+- [TeoGalaxy](https://github.com/TeoGalaxy)
