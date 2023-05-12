@@ -98,8 +98,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/3webs-browser](https://github.com/3webs-org/3webs-browser) (1 week ago) - The 3webs browser: the state-of-the-art Ethereum-native web browser
 - [3webs-org/.github](https://github.com/3webs-org/.github) (2 weeks ago)
 - [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (2 weeks ago)
