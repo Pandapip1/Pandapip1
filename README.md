@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Magnus6803](https://github.com/Magnus6803)
 - [dharmikumbhani](https://github.com/dharmikumbhani)
 - [MRSclauseXMAS](https://github.com/MRSclauseXMAS)
 - [Myamoreatama](https://github.com/Myamoreatama)
 - [AlexGuG3](https://github.com/AlexGuG3)
-- [muzaffer015](https://github.com/muzaffer015)
