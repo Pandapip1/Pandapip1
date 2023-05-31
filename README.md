@@ -98,17 +98,17 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [wuv21/viral-asapseq-snakemake](https://github.com/wuv21/viral-asapseq-snakemake) (1 week ago)
-- [Pandapip1/chatwiki](https://github.com/Pandapip1/chatwiki) (1 week ago)
+- [Pandapip1/chatwiki](https://github.com/Pandapip1/chatwiki) (2 weeks ago)
 
 ## 👪  Recent Followers
 
 
+- [clewup](https://github.com/clewup)
 - [mohaammaadtop](https://github.com/mohaammaadtop)
 - [PauliranSL](https://github.com/PauliranSL)
 - [lemurcina](https://github.com/lemurcina)
 - [mutkukucuk](https://github.com/mutkukucuk)
-- [Jazib07](https://github.com/Jazib07)
