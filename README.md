@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [latgit](https://github.com/latgit)
 - [clewup](https://github.com/clewup)
 - [mohaammaadtop](https://github.com/mohaammaadtop)
 - [PauliranSL](https://github.com/PauliranSL)
 - [lemurcina](https://github.com/lemurcina)
-- [mutkukucuk](https://github.com/mutkukucuk)
