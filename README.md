@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Ugwokeze](https://github.com/Ugwokeze)
+- [web3-master](https://github.com/web3-master)
+- [sardeep870](https://github.com/sardeep870)
 - [jhasaurav97](https://github.com/jhasaurav97)
 - [javandrade66](https://github.com/javandrade66)
-- [Teizuri](https://github.com/Teizuri)
-- [flexibrah](https://github.com/flexibrah)
-- [starlad45](https://github.com/starlad45)
