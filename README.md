@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [JonasVector](https://github.com/JonasVector)
+- [floAr](https://github.com/floAr)
 - [A2k3](https://github.com/A2k3)
 - [boprop](https://github.com/boprop)
 - [Ugwokeze](https://github.com/Ugwokeze)
-- [web3-master](https://github.com/web3-master)
-- [sardeep870](https://github.com/sardeep870)
