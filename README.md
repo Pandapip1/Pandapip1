@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 weeks ago) - Request reviewers for EIP modifications
-- [wuv21/viral-asapseq-snakemake](https://github.com/wuv21/viral-asapseq-snakemake) (3 weeks ago)
-- [Pandapip1/chatwiki](https://github.com/Pandapip1/chatwiki) (4 weeks ago)
+- [wuv21/viral-asapseq-snakemake](https://github.com/wuv21/viral-asapseq-snakemake) (4 weeks ago)
+- [Pandapip1/chatwiki](https://github.com/Pandapip1/chatwiki) (1 month ago)
 
 ## 👪  Recent Followers
 
