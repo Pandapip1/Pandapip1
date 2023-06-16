@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [MD10inoffun](https://github.com/MD10inoffun)
 - [Inatiye0911905991](https://github.com/Inatiye0911905991)
 - [0xbeny](https://github.com/0xbeny)
 - [metaver5o](https://github.com/metaver5o)
 - [soltani59](https://github.com/soltani59)
-- [codeWhizperer](https://github.com/codeWhizperer)
