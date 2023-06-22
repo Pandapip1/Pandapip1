@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Beatove](https://github.com/Beatove)
 - [Strezless1](https://github.com/Strezless1)
 - [Karlitos88](https://github.com/Karlitos88)
 - [MD10inoffun](https://github.com/MD10inoffun)
 - [Inatiye0911905991](https://github.com/Inatiye0911905991)
-- [0xbeny](https://github.com/0xbeny)
