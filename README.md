@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (2 days ago) - Your companion for writing EIPs
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (2 days ago) - Typescript Template
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (3 days ago) - Your companion for writing EIPs
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (3 days ago) - Typescript Template
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (3 weeks ago) - Request reviewers for EIP modifications
 
 ## 👪  Recent Followers
