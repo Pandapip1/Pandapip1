@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Alex425312](https://github.com/Alex425312)
 - [scottrepreneur](https://github.com/scottrepreneur)
 - [Emerson-435](https://github.com/Emerson-435)
 - [Weldhappy](https://github.com/Weldhappy)
 - [Beatove](https://github.com/Beatove)
-- [Strezless1](https://github.com/Strezless1)
