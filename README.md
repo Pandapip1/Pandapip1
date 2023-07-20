@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
+- [3webs-org/3webs-browser](https://github.com/3webs-org/3webs-browser) (today) - The 3webs browser: the state-of-the-art Ethereum-native web browser
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
 - [mheap/submodule-sync-action](https://github.com/mheap/submodule-sync-action) (2 days ago)
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [Pandapip1/get-pr-by-branch](https://github.com/Pandapip1/get-pr-by-branch) (2 days ago) - Get a PR by the branch name
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (3 days ago) - Typescript Template
 
 ## 👪  Recent Followers
 
