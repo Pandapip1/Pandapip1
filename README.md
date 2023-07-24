@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [smartmodel-ng](https://github.com/smartmodel-ng)
 - [Nathan-7617](https://github.com/Nathan-7617)
 - [Orchideja17](https://github.com/Orchideja17)
 - [GovardhanManjula](https://github.com/GovardhanManjula)
 - [karlaxwell](https://github.com/karlaxwell)
-- [chuchuu0](https://github.com/chuchuu0)
