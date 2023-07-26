@@ -108,7 +108,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [richardsonjf](https://github.com/richardsonjf)
-- [Sofi2135](https://github.com/Sofi2135)
 - [smartmodel-ng](https://github.com/smartmodel-ng)
 - [Nathan-7617](https://github.com/Nathan-7617)
 - [Orchideja17](https://github.com/Orchideja17)
+- [GovardhanManjula](https://github.com/GovardhanManjula)
