@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [nf-core/configs](https://github.com/nf-core/configs) (1 day ago) - Config files used to define parameters specific to compute environments at different Institutions
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 days ago) - The Ethereum Improvement Proposal repository
 - [mheap/submodule-sync-action](https://github.com/mheap/submodule-sync-action) (2 days ago)
 
 ## 👪  Recent Followers
