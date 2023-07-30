@@ -99,10 +99,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 day ago) - Typescript Template
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (5 days ago) - Request reviewers for EIP modifications
 - [nf-core/configs](https://github.com/nf-core/configs) (5 days ago) - Config files used to define parameters specific to compute environments at different Institutions
-- [mheap/submodule-sync-action](https://github.com/mheap/submodule-sync-action) (6 days ago)
 
 ## 👪  Recent Followers
 
