@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [neokry](https://github.com/neokry)
 - [YaroslavPysanskyi](https://github.com/YaroslavPysanskyi)
 - [BabakArtist](https://github.com/BabakArtist)
 - [mrnadyy](https://github.com/mrnadyy)
 - [richardsonjf](https://github.com/richardsonjf)
-- [smartmodel-ng](https://github.com/smartmodel-ng)
