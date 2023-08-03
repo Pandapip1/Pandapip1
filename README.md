@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Pearlminimal](https://github.com/Pearlminimal)
 - [quyphandang](https://github.com/quyphandang)
 - [0vm](https://github.com/0vm)
 - [neokry](https://github.com/neokry)
 - [YaroslavPysanskyi](https://github.com/YaroslavPysanskyi)
-- [BabakArtist](https://github.com/BabakArtist)
