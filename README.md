@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (4 days ago) - Typescript Template
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (4 days ago) - The website for eip.info
-- [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) (4 days ago) - Ethereum.org is a primary online resource for the Ethereum community.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (5 days ago) - Typescript Template
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (5 days ago) - The website for eip.info
+- [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) (5 days ago) - Ethereum.org is a primary online resource for the Ethereum community.
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 week ago) - The Ethereum Improvement Proposal repository
 
 ## 👪  Recent Followers
