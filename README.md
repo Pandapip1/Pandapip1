@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (today) - The Ethereum Improvement Proposal repository
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (5 days ago) - The website for eip.info
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (1 day ago) - The Ethereum Improvement Proposal repository
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (6 days ago) - The website for eip.info
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) (1 week ago) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) (1 month ago) - Ethereum.org is a primary online resource for the Ethereum community.
 
