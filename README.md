@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
 - [Amog-OS/AmogOS](https://github.com/Amog-OS/AmogOS) (1 week ago) - ඞ Among-us themed OS. As seen on Reddit and Youtube.
 - [ethscript/typescript-template](https://github.com/ethscript/typescript-template) (1 month ago) - Typescript Template
 
