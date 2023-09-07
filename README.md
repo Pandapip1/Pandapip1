@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [lwr84](https://github.com/lwr84)
+- [Adil223](https://github.com/Adil223)
 - [BritvaBo](https://github.com/BritvaBo)
 - [datatang](https://github.com/datatang)
 - [jovyllebermudez](https://github.com/jovyllebermudez)
-- [junaidAwsm](https://github.com/junaidAwsm)
-- [airlighter](https://github.com/airlighter)
