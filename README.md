@@ -109,6 +109,6 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 - [Dusty1999](https://github.com/Dusty1999)
 - [EmaanMotorpointtourismandservices](https://github.com/EmaanMotorpointtourismandservices)
-- [beejer-warrior](https://github.com/beejer-warrior)
 - [lwr84](https://github.com/lwr84)
 - [Adil223](https://github.com/Adil223)
+- [BritvaBo](https://github.com/BritvaBo)
