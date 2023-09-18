@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (4 days ago) - The website for eip.info
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (4 days ago) - The Ethereum Improvement Proposal repository
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (4 days ago) - Request reviewers for EIP modifications
-- [3webs-org/3webs-browser](https://github.com/3webs-org/3webs-browser) (4 days ago) - The 3webs browser: the state-of-the-art Ethereum-native web browser
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (5 days ago) - The website for eip.info
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (5 days ago) - Request reviewers for EIP modifications
+- [3webs-org/3webs-browser](https://github.com/3webs-org/3webs-browser) (5 days ago) - The 3webs browser: the state-of-the-art Ethereum-native web browser
 
 ## 👪  Recent Followers
 
