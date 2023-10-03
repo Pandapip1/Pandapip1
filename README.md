@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [spack/spack](https://github.com/spack/spack) (today) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [DJSchwartzLab/.github](https://github.com/DJSchwartzLab/.github) (today) - The GitHub profile README for the Schwartz Lab
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (3 days ago) - The website for eip.info
 - [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (5 days ago)
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (2 weeks ago) - The Ethereum Improvement Proposal repository
-- [hulufei/electron-as-browser](https://github.com/hulufei/electron-as-browser) (2 weeks ago) - Make electron like browser easy and flexible.
 
 ## 👪  Recent Followers
 
