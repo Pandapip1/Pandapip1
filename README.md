@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
-- [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (1 day ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) (2 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [DJSchwartzLab/.github](https://github.com/DJSchwartzLab/.github) (3 days ago) - The GitHub profile README for the Schwartz Lab
-- [spack/spack](https://github.com/spack/spack) (3 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
+- [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (2 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (3 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [DJSchwartzLab/.github](https://github.com/DJSchwartzLab/.github) (4 days ago) - The GitHub profile README for the Schwartz Lab
+- [spack/spack](https://github.com/spack/spack) (4 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ## 👪  Recent Followers
 
