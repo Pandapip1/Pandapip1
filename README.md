@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 days ago) - The website for eip.info
-- [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) (4 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [DJSchwartzLab/.github](https://github.com/DJSchwartzLab/.github) (5 days ago) - The GitHub profile README for the Schwartz Lab
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (3 days ago) - The website for eip.info
+- [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) (5 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [DJSchwartzLab/.github](https://github.com/DJSchwartzLab/.github) (6 days ago) - The GitHub profile README for the Schwartz Lab
 
 ## 👪  Recent Followers
 
