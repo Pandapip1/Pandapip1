@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [spack/spack](https://github.com/spack/spack) (2 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (5 days ago) - The website for eip.info
-- [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (6 days ago)
+- [spack/spack](https://github.com/spack/spack) (3 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (6 days ago) - The website for eip.info
+- [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## 👪  Recent Followers
