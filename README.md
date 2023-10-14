@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [jongan69](https://github.com/jongan69)
 - [samuelmonday699](https://github.com/samuelmonday699)
 - [darrylyeo](https://github.com/darrylyeo)
 - [TheFanatr](https://github.com/TheFanatr)
 - [daveed314159](https://github.com/daveed314159)
-- [Recrot1](https://github.com/Recrot1)
