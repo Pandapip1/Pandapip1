@@ -98,8 +98,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [spack/spack](https://github.com/spack/spack) (6 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [spack/spack](https://github.com/spack/spack) (1 week ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 week ago) - The website for eip.info
 - [Pandapip1/py-s3fs](https://github.com/Pandapip1/py-s3fs) (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) (1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
