@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/ERCs](https://github.com/ethereum/ERCs) (1 day ago) - The Ethereum Request for Comment repository 
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (today) - 3webs.org homepage
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (1 day ago) - machine-readable data for https://awesome-selfhosted.net
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ethereum/ERCs](https://github.com/ethereum/ERCs) (1 day ago) - The Ethereum Request for Comment repository 
 
 ## 👪  Recent Followers
 
