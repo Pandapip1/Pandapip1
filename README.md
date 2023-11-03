@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (2 days ago) - 3webs.org homepage
-- [ethereum/ERCs](https://github.com/ethereum/ERCs) (3 days ago) - The Ethereum Request for Comment repository 
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (3 days ago) - The website for eip.info
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (3 days ago) - Request reviewers for EIP modifications
-- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 days ago) - machine-readable data for https://awesome-selfhosted.net
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (3 days ago) - 3webs.org homepage
+- [ethereum/ERCs](https://github.com/ethereum/ERCs) (4 days ago) - The Ethereum Request for Comment repository 
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (4 days ago) - The website for eip.info
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (4 days ago) - Request reviewers for EIP modifications
+- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (4 days ago) - machine-readable data for https://awesome-selfhosted.net
 
 ## 👪  Recent Followers
 
