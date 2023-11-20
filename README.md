@@ -101,8 +101,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ethereum/ERCs](https://github.com/ethereum/ERCs) (5 days ago) - The Ethereum Request for Comment repository 
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 week ago) - 3webs.org homepage
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (3 weeks ago) - The website for eip.info
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) (3 weeks ago) - machine-readable data for https://awesome-selfhosted.net
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (3 weeks ago) - Request reviewers for EIP modifications
 
 ## 👪  Recent Followers
 
