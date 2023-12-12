@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (today)
+- [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (today) - Cardception?!?!
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [spack/spack](https://github.com/spack/spack) (6 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 week ago) - Request reviewers for EIP modifications
-- [ethereum/ERCs](https://github.com/ethereum/ERCs) (3 weeks ago) - The Ethereum Request for Comment repository 
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 month ago) - 3webs.org homepage
 
 ## 👪  Recent Followers
 
