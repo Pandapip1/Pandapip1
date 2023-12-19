@@ -98,17 +98,17 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) (1 day ago) - This is the list that AmazonBrandFilter uses to filter with.
-- [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) (1 day ago) - Filters Amazon search results to only be &#34;known&#34; brands.
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (6 days ago) - Cardception?!?!
-- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (6 days ago)
+- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) (2 days ago) - This is the list that AmazonBrandFilter uses to filter with.
+- [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) (2 days ago) - Filters Amazon search results to only be &#34;known&#34; brands.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (1 week ago) - Cardception?!?!
+- [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (1 week ago)
 
 ## 👪  Recent Followers
 
 
+- [krylov-krylov](https://github.com/krylov-krylov)
 - [1wiz1](https://github.com/1wiz1)
 - [MALIKSHAHID786](https://github.com/MALIKSHAHID786)
 - [jrichy1](https://github.com/jrichy1)
 - [mostafalarkii](https://github.com/mostafalarkii)
-- [JWMatheo](https://github.com/JWMatheo)
