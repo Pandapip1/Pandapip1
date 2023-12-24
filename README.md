@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) (1 week ago) - This is the list that AmazonBrandFilter uses to filter with.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [chris-mosley/AmazonBrandFilter](https://github.com/chris-mosley/AmazonBrandFilter) (1 week ago) - Filters Amazon search results to only be &#34;known&#34; brands.
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) (1 week ago) - This is the list that AmazonBrandFilter uses to filter with.
 - [Pandapip1/PandasCardCombos](https://github.com/Pandapip1/PandasCardCombos) (1 week ago) - Cardception?!?!
 - [Pandapip1/SelectAnyNumberRounds](https://github.com/Pandapip1/SelectAnyNumberRounds) (1 week ago)
 
