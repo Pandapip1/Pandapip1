@@ -108,7 +108,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [Coretaker101](https://github.com/Coretaker101)
-- [NancySirois](https://github.com/NancySirois)
 - [Laughter79](https://github.com/Laughter79)
 - [mostafalarki1368mos](https://github.com/mostafalarki1368mos)
 - [lmarie82](https://github.com/lmarie82)
+- [mrsone40](https://github.com/mrsone40)
