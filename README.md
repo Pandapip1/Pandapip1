@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 day ago) - 3webs.org homepage
 - [PrismarineJS/minecraft-data](https://github.com/PrismarineJS/minecraft-data) (2 days ago) - Language independent module providing minecraft data for minecraft clients, servers and libraries.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [ethereum/ERCs](https://github.com/ethereum/ERCs) (3 days ago) - The Ethereum Request for Comment repository 
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) (3 days ago) - The Ethereum Improvement Proposal repository
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [chris-mosley/AmazonBrandFilterList](https://github.com/chris-mosley/AmazonBrandFilterList) (2 weeks ago) - This is the list that AmazonBrandFilter uses to filter with.
 
 ## 👪  Recent Followers
 
