@@ -102,7 +102,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 - [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) (2 days ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (3 days ago) - 3webs.org homepage
 - [PrismarineJS/minecraft-data](https://github.com/PrismarineJS/minecraft-data) (4 days ago) - Language independent module providing minecraft data for minecraft clients, servers and libraries.
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) (5 days ago) - The Ethereum Improvement Proposal repository
+- [ethereum/ERCs](https://github.com/ethereum/ERCs) (5 days ago) - The Ethereum Request for Comment repository 
 
 ## 👪  Recent Followers
 
