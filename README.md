@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/ERCs](https://github.com/ethereum/ERCs) (today) - The Ethereum Request for Comment repository 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) (3 days ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (4 days ago) - 3webs.org homepage
-- [PrismarineJS/minecraft-data](https://github.com/PrismarineJS/minecraft-data) (5 days ago) - Language independent module providing minecraft data for minecraft clients, servers and libraries.
+- [ethereum/ERCs](https://github.com/ethereum/ERCs) (1 day ago) - The Ethereum Request for Comment repository 
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) (4 days ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (5 days ago) - 3webs.org homepage
+- [PrismarineJS/minecraft-data](https://github.com/PrismarineJS/minecraft-data) (6 days ago) - Language independent module providing minecraft data for minecraft clients, servers and libraries.
 
 ## 👪  Recent Followers
 
