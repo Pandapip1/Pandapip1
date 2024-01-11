@@ -98,17 +98,17 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (today) - Request reviewers for EIP modifications
+- [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (today) - A diamond square minecraft generation
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
 - [ethereum/ERCs](https://github.com/ethereum/ERCs) (2 days ago) - The Ethereum Request for Comment repository 
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) (5 days ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (6 days ago) - 3webs.org homepage
 
 ## 👪  Recent Followers
 
 
+- [Superthug08](https://github.com/Superthug08)
 - [Jean68172](https://github.com/Jean68172)
 - [Brandylee24](https://github.com/Brandylee24)
 - [Coretaker101](https://github.com/Coretaker101)
 - [Laughter79](https://github.com/Laughter79)
-- [mostafalarki1368mos](https://github.com/mostafalarki1368mos)
