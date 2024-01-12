@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 day ago) - Request reviewers for EIP modifications
 - [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (1 day ago) - A diamond square minecraft generation
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [ethereum/ERCs](https://github.com/ethereum/ERCs) (3 days ago) - The Ethereum Request for Comment repository 
 - [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
