@@ -98,17 +98,17 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [spack/spack](https://github.com/spack/spack) (today) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
 - [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (2 days ago) - A diamond square minecraft generation
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 days ago) - Request reviewers for EIP modifications
 - [ethereum/ERCs](https://github.com/ethereum/ERCs) (4 days ago) - The Ethereum Request for Comment repository 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 ## 👪  Recent Followers
 
 
+- [Laceduppanda](https://github.com/Laceduppanda)
 - [shunkakinoki](https://github.com/shunkakinoki)
 - [linnielowe06](https://github.com/linnielowe06)
 - [Superthug08](https://github.com/Superthug08)
 - [Jean68172](https://github.com/Jean68172)
-- [Brandylee24](https://github.com/Brandylee24)
