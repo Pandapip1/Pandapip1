@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [spack/spack](https://github.com/spack/spack) (2 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (3 days ago) - The website for eip.info
-- [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (4 days ago) - A diamond square minecraft generation
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (4 days ago) - Request reviewers for EIP modifications
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [spack/spack](https://github.com/spack/spack) (3 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (4 days ago) - The website for eip.info
+- [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (5 days ago) - A diamond square minecraft generation
+- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (5 days ago) - Request reviewers for EIP modifications
 
 ## 👪  Recent Followers
 
