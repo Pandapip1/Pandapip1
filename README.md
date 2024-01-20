@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [ArielSugden](https://github.com/ArielSugden)
 - [Laceduppanda](https://github.com/Laceduppanda)
 - [shunkakinoki](https://github.com/shunkakinoki)
 - [linnielowe06](https://github.com/linnielowe06)
 - [Superthug08](https://github.com/Superthug08)
-- [Jean68172](https://github.com/Jean68172)
