@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (today) - 3webs.org homepage
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 day ago) - 3webs.org homepage
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [spack/spack](https://github.com/spack/spack) (1 week ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (1 week ago) - Request reviewers for EIP modifications
 
