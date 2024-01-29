@@ -102,7 +102,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (6 days ago) - 3webs.org homepage
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (6 days ago) - The website for eip.info
 - [spack/spack](https://github.com/spack/spack) (2 weeks ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (2 weeks ago) - Request reviewers for EIP modifications
+- [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (2 weeks ago) - A diamond square minecraft generation
 
 ## 👪  Recent Followers
 
