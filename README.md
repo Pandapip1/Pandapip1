@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (2 weeks ago) - 3webs.org homepage
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 weeks ago) - The website for eip.info
-- [spack/spack](https://github.com/spack/spack) (4 weeks ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [spack/spack](https://github.com/spack/spack) (1 month ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [PrismarineJS/diamond-square](https://github.com/PrismarineJS/diamond-square) (1 month ago) - A diamond square minecraft generation
 
 ## 👪  Recent Followers
