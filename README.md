@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Richiee69](https://github.com/Richiee69)
 - [Ramyromel](https://github.com/Ramyromel)
 - [matrix-compute](https://github.com/matrix-compute)
 - [bk13699](https://github.com/bk13699)
 - [5twelve](https://github.com/5twelve)
-- [wailin247](https://github.com/wailin247)
