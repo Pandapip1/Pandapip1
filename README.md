@@ -99,10 +99,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (today)
-- [OpenSchooling/AccentPress](https://github.com/OpenSchooling/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [OpenSchooling/.github](https://github.com/OpenSchooling/.github) (today) - Default community files for OpenSchooling
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 week ago) - The website for eip.info
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago) - Nix Packages collection &amp; NixOS
-- [ethereum/eip-review-bot](https://github.com/ethereum/eip-review-bot) (3 weeks ago) - Request reviewers for EIP modifications
 
 ## 👪  Recent Followers
 
