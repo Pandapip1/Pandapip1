@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (2 days ago)
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 days ago) - The website for eip.info
-- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (2 days ago) - Automatically add labels depending on Jekyll front matter attributes
-- [OpenSchooling/.github](https://github.com/OpenSchooling/.github) (2 days ago) - Default community files for OpenSchooling
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (3 days ago)
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (3 days ago) - The website for eip.info
+- [Pandapip1/jekyll-label-action](https://github.com/Pandapip1/jekyll-label-action) (3 days ago) - Automatically add labels depending on Jekyll front matter attributes
+- [OpenSchooling/.github](https://github.com/OpenSchooling/.github) (3 days ago) - Default community files for OpenSchooling
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 ## 👪  Recent Followers
 
