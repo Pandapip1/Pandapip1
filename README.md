@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [GodotVR/godot-xr-tools](https://github.com/GodotVR/godot-xr-tools) (2 days ago) - Support scenes for AR and VR in Godot
-- [Pandapip1/.github](https://github.com/Pandapip1/.github) (2 days ago)
-- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (3 days ago)
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (6 days ago) - The website for eip.info
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [GodotVR/godot-xr-tools](https://github.com/GodotVR/godot-xr-tools) (3 days ago) - Support scenes for AR and VR in Godot
+- [Pandapip1/.github](https://github.com/Pandapip1/.github) (3 days ago)
+- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (4 days ago)
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 week ago) - The website for eip.info
 
 ## 👪  Recent Followers
 
