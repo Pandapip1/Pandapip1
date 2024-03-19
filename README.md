@@ -99,8 +99,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [3webs-org/pgp-http-auth-spec](https://github.com/3webs-org/pgp-http-auth-spec) (1 day ago) - An I-D for HTTP Authentication using PGP keys
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (1 day ago)
 - [GodotVR/godot-xr-tools](https://github.com/GodotVR/godot-xr-tools) (4 days ago) - Support scenes for AR and VR in Godot
 
