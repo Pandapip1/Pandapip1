@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
+- [3webs-org/.github](https://github.com/3webs-org/.github) (today)
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 day ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 days ago) - The website for eip.info
 - [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (2 days ago)
-- [3webs-org/pgp-http-auth-spec](https://github.com/3webs-org/pgp-http-auth-spec) (2 days ago) - An I-D for HTTP Authentication using PGP keys
 
 ## 👪  Recent Followers
 
