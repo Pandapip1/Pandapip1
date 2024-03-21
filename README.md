@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [blizzardc0der](https://github.com/blizzardc0der)
 - [inanna-openplanet](https://github.com/inanna-openplanet)
 - [kimfuller138](https://github.com/kimfuller138)
 - [Queenkaz](https://github.com/Queenkaz)
 - [snkd](https://github.com/snkd)
-- [mmoritz8](https://github.com/mmoritz8)
