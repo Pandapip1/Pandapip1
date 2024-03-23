@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (today)
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [DJSchwartzLab/spack-djschwartz-repo](https://github.com/DJSchwartzLab/spack-djschwartz-repo) (1 day ago)
-- [biobakery/biobakery](https://github.com/biobakery/biobakery) (1 day ago) - bioBakery tools for meta&#39;omic profiling
+- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (1 day ago)
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [DJSchwartzLab/spack-djschwartz-repo](https://github.com/DJSchwartzLab/spack-djschwartz-repo) (2 days ago)
+- [biobakery/biobakery](https://github.com/biobakery/biobakery) (2 days ago) - bioBakery tools for meta&#39;omic profiling
 
 ## 👪  Recent Followers
 
