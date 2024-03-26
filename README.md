@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (today)
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [spack/spack](https://github.com/spack/spack) (3 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (4 days ago) - The website for eip.info
-- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (4 days ago)
 - [biobakery/biobakery](https://github.com/biobakery/biobakery) (5 days ago) - bioBakery tools for meta&#39;omic profiling
 
 ## 👪  Recent Followers
