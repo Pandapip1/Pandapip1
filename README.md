@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today) - Nix Packages collection &amp; NixOS
 - [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (1 day ago)
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [spack/spack](https://github.com/spack/spack) (5 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (6 days ago) - The website for eip.info
-- [biobakery/biobakery](https://github.com/biobakery/biobakery) (1 week ago) - bioBakery tools for meta&#39;omic profiling
 
 ## 👪  Recent Followers
 
