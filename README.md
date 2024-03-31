@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Redidacove](https://github.com/Redidacove)
 - [Ramyromel](https://github.com/Ramyromel)
 - [AmrElghopashy](https://github.com/AmrElghopashy)
 - [blizzardc0der](https://github.com/blizzardc0der)
 - [inanna-openplanet](https://github.com/inanna-openplanet)
-- [kimfuller138](https://github.com/kimfuller138)
