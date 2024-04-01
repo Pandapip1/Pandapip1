@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (3 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
-- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (3 days ago) - This is the repository for the master files that comprise the  SPDX License List
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago) - Nix Packages collection &amp; NixOS
+- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (4 days ago) - This is the repository for the master files that comprise the  SPDX License List
 - [spack/spack](https://github.com/spack/spack) (1 week ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ## 👪  Recent Followers
