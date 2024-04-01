@@ -102,7 +102,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) (4 days ago) - Issue tracking for the Steam for Linux beta client
 - [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (4 days ago) - This is the repository for the master files that comprise the  SPDX License List
-- [3webs-org/vanadium](https://github.com/3webs-org/vanadium) (4 days ago)
+- [3webs-org/vector](https://github.com/3webs-org/vector) (4 days ago)
 
 ## 👪  Recent Followers
 
