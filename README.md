@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) (5 days ago) - Issue tracking for the Steam for Linux beta client
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago) - Nix Packages collection &amp; NixOS
-- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (5 days ago) - This is the repository for the master files that comprise the  SPDX License List
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 days ago) - The website for eip.info
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) (6 days ago) - Issue tracking for the Steam for Linux beta client
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago) - Nix Packages collection &amp; NixOS
+- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (6 days ago) - This is the repository for the master files that comprise the  SPDX License List
 
 ## 👪  Recent Followers
 
