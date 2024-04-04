@@ -98,7 +98,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 day ago) - 3webs.org homepage
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (today) - 3webs.org homepage
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [3webs-org/NoBookmarklets](https://github.com/3webs-org/NoBookmarklets) (1 day ago) - A simple chrome extension to disable bookmarklets.
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
