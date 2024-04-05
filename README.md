@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 day ago) - 3webs.org homepage
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 days ago) - The website for eip.info
-- [3webs-org/NoBookmarklets](https://github.com/3webs-org/NoBookmarklets) (2 days ago) - A simple chrome extension to disable bookmarklets.
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
+- [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (today) - Your companion for writing EIPs
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (today) - 3webs.org homepage
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (1 week ago) - This is the repository for the master files that comprise the  SPDX License List
+- [3webs-org/NoBookmarklets](https://github.com/3webs-org/NoBookmarklets) (2 days ago) - A simple chrome extension to disable bookmarklets.
 
 ## 👪  Recent Followers
 
