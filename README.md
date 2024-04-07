@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (2 days ago) - 3webs.org homepage
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 days ago) - The website for eip.info
 - [Pandapip1/eipw-vscode](https://github.com/Pandapip1/eipw-vscode) (2 days ago) - Your companion for writing EIPs
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (2 days ago) - 3webs.org homepage
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/NoBookmarklets](https://github.com/3webs-org/NoBookmarklets) (4 days ago) - A simple chrome extension to disable bookmarklets.
 
 ## 👪  Recent Followers
