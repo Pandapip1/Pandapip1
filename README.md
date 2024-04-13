@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [moripa1](https://github.com/moripa1)
 - [spmoe](https://github.com/spmoe)
 - [danmaster01](https://github.com/danmaster01)
 - [Alkhatri77](https://github.com/Alkhatri77)
 - [Redidacove](https://github.com/Redidacove)
-- [Ramyromel](https://github.com/Ramyromel)
