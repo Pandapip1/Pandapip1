@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/vector](https://github.com/3webs-org/vector) (4 days ago) - A web browser. Currently prototype-quality.
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (5 days ago) - 3webs.org homepage
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (5 days ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (5 days ago) - The website for eip.info
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (5 days ago) - 3webs.org homepage
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 ## 👪  Recent Followers
 
