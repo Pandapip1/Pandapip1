@@ -99,9 +99,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (today) - The website for eip.info
+- [3webs-org/vector](https://github.com/3webs-org/vector) (today) - A web browser. Currently prototype-quality.
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (today) - 3webs.org homepage
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/vector](https://github.com/3webs-org/vector) (4 days ago) - A web browser. Currently prototype-quality.
 - [Pandapip1/mineflayer-swarm](https://github.com/Pandapip1/mineflayer-swarm) (1 week ago) - Allows you to control an entire PrismarineJS/mineflayer bot swarm with minimal additional code
 
 ## 👪  Recent Followers
