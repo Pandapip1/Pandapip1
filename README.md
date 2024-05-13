@@ -98,10 +98,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/vector](https://github.com/3webs-org/vector) (today) - A web browser. Currently prototype-quality.
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (4 days ago) - The website for eip.info
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (4 days ago) - 3webs.org homepage
-- [3webs-org/vector](https://github.com/3webs-org/vector) (4 days ago) - A web browser. Currently prototype-quality.
 - [Pandapip1/eip-author-pack](https://github.com/Pandapip1/eip-author-pack) (2 weeks ago) - A Visual Studio Code extension pack for authoring and editing EIPs. Not much else to say here.
 
 ## 👪  Recent Followers
