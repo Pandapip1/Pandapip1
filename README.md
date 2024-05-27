@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) (today) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/vector](https://github.com/3webs-org/vector) (4 days ago) - A web browser. Currently prototype-quality.
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (6 days ago) - 3webs.org homepage
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 week ago) - The website for eip.info
-- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) (1 week ago) - This is the repository for the master files that comprise the  SPDX License List
 
 ## 👪  Recent Followers
 
