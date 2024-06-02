@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Dropkick13](https://github.com/Dropkick13)
 - [VianSanjaya](https://github.com/VianSanjaya)
 - [api6590](https://github.com/api6590)
 - [PeakyBlinders52](https://github.com/PeakyBlinders52)
 - [cum8197](https://github.com/cum8197)
-- [Syedmdreyazul](https://github.com/Syedmdreyazul)
