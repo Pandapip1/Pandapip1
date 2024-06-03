@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) (6 days ago) - Pure and reproducible nix overlay of binary distributed rust toolchains
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) (1 week ago) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [3webs-org/vector](https://github.com/3webs-org/vector) (1 week ago) - A web browser. Currently prototype-quality.
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 week ago) - 3webs.org homepage
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 week ago) - The website for eip.info
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (2 weeks ago) - The website for eip.info
 
 ## 👪  Recent Followers
 
