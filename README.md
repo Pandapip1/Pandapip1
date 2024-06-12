@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/vector](https://github.com/3webs-org/vector) (today) - A web browser. Currently prototype-quality.
 - [spack/spack](https://github.com/spack/spack) (today) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/vector](https://github.com/3webs-org/vector) (1 week ago) - A web browser. Currently prototype-quality.
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) (2 weeks ago) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (3 weeks ago) - 3webs.org homepage
 
