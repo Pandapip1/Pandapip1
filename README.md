@@ -111,4 +111,4 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 - [suchat932](https://github.com/suchat932)
 - [SAMC1572](https://github.com/SAMC1572)
 - [Dropkick13](https://github.com/Dropkick13)
-- [VianSanjaya](https://github.com/VianSanjaya)
+- [api6590](https://github.com/api6590)
