@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [missAnneThorpe](https://github.com/missAnneThorpe)
 - [Selarun15](https://github.com/Selarun15)
 - [suchat932](https://github.com/suchat932)
 - [SAMC1572](https://github.com/SAMC1572)
 - [Dropkick13](https://github.com/Dropkick13)
-- [api6590](https://github.com/api6590)
