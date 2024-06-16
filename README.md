@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/vector](https://github.com/3webs-org/vector) (today) - A web browser. Currently prototype-quality.
-- [spack/spack](https://github.com/spack/spack) (3 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) (2 weeks ago) - Pure and reproducible nix overlay of binary distributed rust toolchains
-- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (3 weeks ago) - 3webs.org homepage
+- [3webs-org/vector](https://github.com/3webs-org/vector) (1 day ago) - A web browser. Currently prototype-quality.
+- [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 day ago) - 3webs.org homepage
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
+- [spack/spack](https://github.com/spack/spack) (4 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 
 ## 👪  Recent Followers
 
