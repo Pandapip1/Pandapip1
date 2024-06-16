@@ -99,10 +99,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today) - Nix Packages collection &amp; NixOS
+- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
 - [3webs-org/vector](https://github.com/3webs-org/vector) (1 day ago) - A web browser. Currently prototype-quality.
 - [3webs-org/3webs-homepage](https://github.com/3webs-org/3webs-homepage) (1 day ago) - 3webs.org homepage
-- [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 day ago) - The website for eip.info
-- [spack/spack](https://github.com/spack/spack) (4 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ## 👪  Recent Followers
 
