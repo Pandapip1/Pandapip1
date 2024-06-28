@@ -98,7 +98,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) (1 day ago) - Search NixOS packages and options
+- [NixOS/nixos-search](https://github.com/NixOS/nixos-search) (today) - Search NixOS packages and options
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
 - [Meumeu/WiVRn](https://github.com/Meumeu/WiVRn) (4 days ago) - An OpenXR streaming application to a standalone headset
