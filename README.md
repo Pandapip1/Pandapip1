@@ -98,17 +98,17 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/securitywrap](https://github.com/Pandapip1/securitywrap) (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/securitywrap](https://github.com/Pandapip1/securitywrap) (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago) - Nix Packages collection &amp; NixOS
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (4 days ago) - My nixos configuration files
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) (1 week ago) - Swiss-knife for updating nix packages.
 
 ## 👪  Recent Followers
 
 
+- [Magken91](https://github.com/Magken91)
 - [Karthik-0521](https://github.com/Karthik-0521)
 - [WatUsayWILLIS](https://github.com/WatUsayWILLIS)
 - [joselolo231](https://github.com/joselolo231)
 - [Maliksb11](https://github.com/Maliksb11)
-- [montana77783](https://github.com/montana77783)
