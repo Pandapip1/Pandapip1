@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [StardustXR/kiara](https://github.com/StardustXR/kiara) (today) - A stardust app shell/DE that uses https://github.com/YaLTeR/niri with a 360deg virtual monitor to expand your wortkspace with easy to learn keyboard shortcuts or buttons.
 - [Pandapip1/securitywrap](https://github.com/Pandapip1/securitywrap) (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago) - Nix Packages collection &amp; NixOS
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (4 days ago) - My nixos configuration files
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) (1 week ago) - Swiss-knife for updating nix packages.
 
 ## 👪  Recent Followers
 
