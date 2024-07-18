@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [reverse-banana](https://github.com/reverse-banana)
 - [pl1189](https://github.com/pl1189)
 - [luqmandaut](https://github.com/luqmandaut)
 - [MMONSTER124](https://github.com/MMONSTER124)
 - [Andredreyer1](https://github.com/Andredreyer1)
-- [Magken91](https://github.com/Magken91)
