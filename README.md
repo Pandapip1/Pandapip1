@@ -109,6 +109,6 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 - [Chator1](https://github.com/Chator1)
 - [Sulthanmh](https://github.com/Sulthanmh)
-- [Skandiakiwi13](https://github.com/Skandiakiwi13)
 - [Magken91](https://github.com/Magken91)
 - [standardgalactic](https://github.com/standardgalactic)
+- [MarketBeatAd](https://github.com/MarketBeatAd)
