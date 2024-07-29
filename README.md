@@ -98,7 +98,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago) - Nix Packages collection &amp; NixOS
 - [StardustXR/kiara](https://github.com/StardustXR/kiara) (2 weeks ago) - A stardust app shell/DE that uses https://github.com/YaLTeR/niri with a 360deg virtual monitor to expand your wortkspace with easy to learn keyboard shortcuts or buttons.
 - [Pandapip1/securitywrap](https://github.com/Pandapip1/securitywrap) (2 weeks ago)
