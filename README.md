@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 days ago) - My nixos configuration files
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
-- [spack/spack](https://github.com/spack/spack) (5 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [StardustXR/kiara](https://github.com/StardustXR/kiara) (4 weeks ago) - A stardust app shell/DE that uses https://github.com/YaLTeR/niri with a 360deg virtual monitor to expand your wortkspace with easy to learn keyboard shortcuts or buttons.
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago) - Nix Packages collection &amp; NixOS
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files
+- [spack/spack](https://github.com/spack/spack) (6 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [StardustXR/kiara](https://github.com/StardustXR/kiara) (1 month ago) - A stardust app shell/DE that uses https://github.com/YaLTeR/niri with a 360deg virtual monitor to expand your wortkspace with easy to learn keyboard shortcuts or buttons.
 
 ## 👪  Recent Followers
 
