@@ -99,10 +99,10 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/securitywrap](https://github.com/Pandapip1/securitywrap) (today)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago) - Nix Packages collection &amp; NixOS
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 week ago) - My nixos configuration files
 - [spack/spack](https://github.com/spack/spack) (1 week ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [StardustXR/kiara](https://github.com/StardustXR/kiara) (1 month ago) - A stardust app shell/DE that uses https://github.com/YaLTeR/niri with a 360deg virtual monitor to expand your wortkspace with easy to learn keyboard shortcuts or buttons.
 
 ## 👪  Recent Followers
 
