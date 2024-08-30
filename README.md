@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files
 - [Pandapip1/libardriversffi](https://github.com/Pandapip1/libardriversffi) (3 days ago)
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/NUR-packages](https://github.com/Pandapip1/NUR-packages) (5 days ago)
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/securitywrap](https://github.com/Pandapip1/securitywrap) (1 week ago)
 
 ## 👪  Recent Followers
