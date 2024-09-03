@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [spack/spack](https://github.com/spack/spack) (1 day ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 days ago) - My nixos configuration files
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) (4 days ago) - Conveniently and reasonably harden NixOS.
-- [Pandapip1/libardriversffi](https://github.com/Pandapip1/libardriversffi) (6 days ago)
+- [spack/spack](https://github.com/spack/spack) (2 days ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) (5 days ago) - Conveniently and reasonably harden NixOS.
+- [Pandapip1/libardriversffi](https://github.com/Pandapip1/libardriversffi) (1 week ago)
 
 ## 👪  Recent Followers
 
