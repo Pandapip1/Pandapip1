@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [johannabosch](https://github.com/johannabosch)
 - [Skippyy96](https://github.com/Skippyy96)
 - [oasissoman](https://github.com/oasissoman)
 - [Shoola-dev](https://github.com/Shoola-dev)
 - [eust-w](https://github.com/eust-w)
-- [wuayker](https://github.com/wuayker)
