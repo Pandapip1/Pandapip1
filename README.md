@@ -107,8 +107,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 👪  Recent Followers
 
 
+- [Kudlaty955](https://github.com/Kudlaty955)
 - [Mahmoudhpp](https://github.com/Mahmoudhpp)
 - [kharidvpn](https://github.com/kharidvpn)
 - [johannabosch](https://github.com/johannabosch)
 - [Skippyy96](https://github.com/Skippyy96)
-- [oasissoman](https://github.com/oasissoman)
