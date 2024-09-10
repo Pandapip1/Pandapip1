@@ -98,9 +98,9 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
-- [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) (4 days ago) - Review pull-requests on https://github.com/NixOS/nixpkgs
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago) - Nix Packages collection &amp; NixOS
+- [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) (5 days ago) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [spack/spack](https://github.com/spack/spack) (1 week ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 week ago) - My nixos configuration files
 
