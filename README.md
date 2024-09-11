@@ -98,11 +98,11 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [repology/repology-rules](https://github.com/repology/repology-rules) (1 day ago) - Package normalization ruleset for Repology
+- [repology/repology-updater](https://github.com/repology/repology-updater) (today) - Repology backend service to update repository and package data
+- [repology/repology-rules](https://github.com/repology/repology-rules) (today) - Package normalization ruleset for Repology
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago) - Nix Packages collection &amp; NixOS
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) (6 days ago) - Review pull-requests on https://github.com/NixOS/nixpkgs
-- [spack/spack](https://github.com/spack/spack) (1 week ago) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
 ## 👪  Recent Followers
 
