@@ -79,6 +79,8 @@ Fares Saïdi, Utkarsha Mahanta, Adyasha Panda, Ahmad A Kezzo, Nicolas Y Jolivet,
 
 Andrew J Jezewski, Ann M Guggisberg, Dana M Hodge, Naomi Ghebremichael, Gavin Nicholas John, Lisa K McLellan, and Audrey Ragan Odom John. 2022. “GAPDH mediates drug resistance and metabolism in *Plasmodium falciparum* malaria parasites” *PLoS pathogens*, https://doi.org/10.1371/journal.ppat.1010803
 
+Elise A Chong, Kingsley Gideon Kumashie, Emeline R Chong, Joseph Fabrizio, Aditi Gupta, Jakub Svoboda, Stefan K Barta, Kristy M Walsh, Ellen B Napier, Rachel K Lundberg, Sunita D Nasta, James N Gerson, Daniel J Landsburg, Joyce Gonzalez, Andrew Gaano, Madison E Weirick, Christopher M McAllister, Moses Awofolaju, Gavin N John, Shane C Kammerman, Josef Novacek, Raymone Pajarillo, Kendall A Lundgreen, Nicole Tanenbaum, Sigrid Gouma, Elizabeth M Drapeau, Sharon Adamski, Kurt D’Andrea, Ajinkya Pattekar, Amanda Hicks, Scott Korte, Harsh Sharma, Sarah Herring, Justine C Williams, Jacob T Hamilton, Paul Bates, Scott E Hensley, Eline T Luning Prak, Allison R Greenplate, E John Wherry, Stephen J Schuster, Marco Ruella, and Laura A Vella. 2024. “Immunologic Predictors of Vaccine Responsiveness in Patients With Lymphoma and Chronic Lymphocytic Leukemia” *The Journal of infectious diseases*, https://doi.org/10.1093/infdis/jiae106
+
 ### Ethereum Improvement Proposals
 
 Dan Finlay ([@danfinlay](https://github.com/danfinlay)), Esteban Mino ([@estebanmino](https://github.com/estebanmino)), Gavin John ([@Pandapip1](https://github.com/Pandapip1)), "EIP-747: wallet_watchAsset RPC Method," *Ethereum Improvement Proposals*, no. 747, August 2018. \[Online serial\]. Available: https://eips.ethereum.org/EIPS/eip-747.
