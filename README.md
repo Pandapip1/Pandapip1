@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [repology/repology-rules](https://github.com/repology/repology-rules) (1 day ago) - Package normalization ruleset for Repology
-- [repology/repology-updater](https://github.com/repology/repology-updater) (1 day ago) - Repology backend service to update repository and package data
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) (1 week ago) - Review pull-requests on https://github.com/NixOS/nixpkgs
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
+- [Pandapip1/gha-notif-autodismiss](https://github.com/Pandapip1/gha-notif-autodismiss) (today)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) (3 days ago) - libcosmic greeter for greetd, which can be run inside cosmic-comp
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
