@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
+- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (today) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
 - [Pandapip1/gha-notif-autodismiss](https://github.com/Pandapip1/gha-notif-autodismiss) (today)
 - [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
 - [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) (3 days ago) - libcosmic greeter for greetd, which can be run inside cosmic-comp
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
