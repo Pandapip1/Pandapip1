@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (today) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
 - [Pandapip1/gha-notif-autodismiss](https://github.com/Pandapip1/gha-notif-autodismiss) (today)
+- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (today) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
 - [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/me133](https://github.com/Pandapip1/me133) (today)
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
-- [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter) (3 days ago) - libcosmic greeter for greetd, which can be run inside cosmic-comp
