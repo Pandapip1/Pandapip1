@@ -100,7 +100,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
 - [PandapipBot/nixpkgs-update-gha](https://github.com/PandapipBot/nixpkgs-update-gha) (1 day ago)
 - [Pandapip1/me133](https://github.com/Pandapip1/me133) (1 day ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
