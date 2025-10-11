@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/gha-notif-autodismiss](https://github.com/Pandapip1/gha-notif-autodismiss) (today)
-- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (today) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
-- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [Pandapip1/me133](https://github.com/Pandapip1/me133) (today)
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
+- [Pandapip1/gha-notif-autodismiss](https://github.com/Pandapip1/gha-notif-autodismiss) (1 day ago)
+- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (1 day ago) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
+- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/me133](https://github.com/Pandapip1/me133) (1 day ago)
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files
