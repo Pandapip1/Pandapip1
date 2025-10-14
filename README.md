@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/me133](https://github.com/Pandapip1/me133) (today)
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files
-- [PandapipBot/nixpkgs-update-gha](https://github.com/PandapipBot/nixpkgs-update-gha) (1 day ago)
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (1 day ago) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
+- [Pandapip1/me133](https://github.com/Pandapip1/me133) (1 day ago)
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files
+- [PandapipBot/nixpkgs-update-gha](https://github.com/PandapipBot/nixpkgs-update-gha) (2 days ago)
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/nixpkgs-update-gha](https://github.com/Pandapip1/nixpkgs-update-gha) (2 days ago) - Run your own @r-ryantm on GitHub&#39;s CI and skip the queue!
