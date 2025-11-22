@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/atlasthrow](https://github.com/Pandapip1/atlasthrow) (1 day ago)
-- [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) (2 days ago) - ananicy-cpp-rules for CachyOS
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files; GitHub mirror
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/atlasthrow](https://github.com/Pandapip1/atlasthrow) (2 days ago)
+- [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) (3 days ago) - ananicy-cpp-rules for CachyOS
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (4 days ago) - My nixos configuration files; GitHub mirror
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [3webs-org/eip-info-website](https://github.com/3webs-org/eip-info-website) (1 week ago) - The website for eip.info
