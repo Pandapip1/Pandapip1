@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (6 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/atlasthrow](https://github.com/Pandapip1/atlasthrow) (1 week ago)
 - [lanorludd/lanorludd.com](https://github.com/lanorludd/lanorludd.com) (1 week ago) - LAN or Ludd main website
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 weeks ago) - My nixos configuration files; GitHub mirror
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) (1 month ago) - ananicy-cpp-rules for CachyOS
