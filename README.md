@@ -101,7 +101,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
 - [pop-os/xdg-desktop-portal-cosmic](https://github.com/pop-os/xdg-desktop-portal-cosmic) (2 days ago)
 - [nix-community/nur-combined](https://github.com/nix-community/nur-combined) (4 days ago) - A repository of NUR that combines all repositories [maintainer=@Mic92] 
 - [nix-community/nur-update](https://github.com/nix-community/nur-update) (4 days ago) - Service to trigger updates of the NUR repository [maintainer=@Mic92] 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (6 days ago) - My nixos configuration files; GitHub mirror
