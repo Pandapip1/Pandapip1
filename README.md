@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 days ago) - My nixos configuration files; GitHub mirror
-- [pop-os/xdg-desktop-portal-cosmic](https://github.com/pop-os/xdg-desktop-portal-cosmic) (4 days ago)
-- [nix-community/nur-update](https://github.com/nix-community/nur-update) (6 days ago) - Service to trigger updates of the NUR repository [maintainer=@Mic92] 
-- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) (6 days ago) - A repository of NUR that combines all repositories [maintainer=@Mic92] 
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files; GitHub mirror
+- [pop-os/xdg-desktop-portal-cosmic](https://github.com/pop-os/xdg-desktop-portal-cosmic) (5 days ago)
+- [nix-community/nur-update](https://github.com/nix-community/nur-update) (1 week ago) - Service to trigger updates of the NUR repository [maintainer=@Mic92] 
+- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) (1 week ago) - A repository of NUR that combines all repositories [maintainer=@Mic92] 
