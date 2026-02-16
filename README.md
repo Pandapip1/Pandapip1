@@ -104,4 +104,4 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 - [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (5 days ago) - My nixos configuration files; GitHub mirror
 - [pop-os/xdg-desktop-portal-cosmic](https://github.com/pop-os/xdg-desktop-portal-cosmic) (1 week ago)
-- [nix-community/nur-combined](https://github.com/nix-community/nur-combined) (1 week ago) - A repository of NUR that combines all repositories [maintainer=@Mic92] 
+- [nix-community/nur-update](https://github.com/nix-community/nur-update) (1 week ago) - Service to trigger updates of the NUR repository [maintainer=@Mic92] 
