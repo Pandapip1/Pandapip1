@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
 
-    - uses: muesli/readme-scribe@master
+    - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 # master
       env:
         GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       with:
