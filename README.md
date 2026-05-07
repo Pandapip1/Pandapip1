@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos-linux-rt](https://github.com/Pandapip1/nixos-linux-rt) (today) - GitHub mirror of https://codeberg.org/Pandapip1/nixos-linux-rt
-- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago) - Nix Packages collection &amp; NixOS
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (5 days ago) - My nixos configuration files; GitHub mirror
+- [Pandapip1/nixos-linux-rt](https://github.com/Pandapip1/nixos-linux-rt) (1 day ago) - GitHub mirror of https://codeberg.org/Pandapip1/nixos-linux-rt
+- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago) - Nix Packages collection &amp; NixOS
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (6 days ago) - My nixos configuration files; GitHub mirror
