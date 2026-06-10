@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [LudovicRousseau/CCID](https://github.com/LudovicRousseau/CCID) (5 days ago) - CCID driver
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files; GitHub mirror
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [LudovicRousseau/CCID](https://github.com/LudovicRousseau/CCID) (6 days ago) - CCID driver
 - [notify-rs/notify](https://github.com/notify-rs/notify) (1 week ago) - 🔭 Cross-platform filesystem notification library for Rust. 
 - [nix-community/NUR](https://github.com/nix-community/NUR) (2 weeks ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
