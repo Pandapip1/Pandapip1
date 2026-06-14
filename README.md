@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) (2 days ago) - A template for NUR repositories: [maintainer=@fgaz] 
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (5 days ago) - My nixos configuration files; GitHub mirror
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [LudovicRousseau/CCID](https://github.com/LudovicRousseau/CCID) (1 week ago) - CCID driver
 - [notify-rs/notify](https://github.com/notify-rs/notify) (1 week ago) - 🔭 Cross-platform filesystem notification library for Rust. 
