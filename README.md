@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) (5 days ago) - A template for NUR repositories: [maintainer=@fgaz] 
+- [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) (6 days ago) - A template for NUR repositories: [maintainer=@fgaz] 
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 week ago) - My nixos configuration files; GitHub mirror
-- [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) (1 week ago) - Compositor for the COSMIC desktop environment
+- [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) (2 weeks ago) - Compositor for the COSMIC desktop environment
