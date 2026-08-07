@@ -100,7 +100,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/plover-plugin-fcitx5-keyboardcontrol](https://github.com/Pandapip1/plover-plugin-fcitx5-keyboardcontrol) (1 day ago)
+- [Pandapip1/plover-fcitx5](https://github.com/Pandapip1/plover-fcitx5) (1 day ago)
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files; GitHub mirror
 - [nix-community/NUR](https://github.com/nix-community/NUR) (3 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
