@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/ntlibc](https://github.com/Pandapip1/ntlibc) (today)
-- [Pandapip1/nano11-go](https://github.com/Pandapip1/nano11-go) (today) - Port of nano11 in pure go
 - [Pandapip1/stage0-pe32](https://github.com/Pandapip1/stage0-pe32) (today) - Native windows x86 port of stage0
-- [nix-community/NUR](https://github.com/nix-community/NUR) (3 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/nano11-go](https://github.com/Pandapip1/nano11-go) (today) - Port of nano11 in pure go
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (5 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
