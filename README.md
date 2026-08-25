@@ -102,6 +102,6 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 - [Pandapip1/ntlibc](https://github.com/Pandapip1/ntlibc) (today)
 - [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) (1 day ago) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
 - [Pandapip1/stage0-pe32](https://github.com/Pandapip1/stage0-pe32) (2 days ago) - Native windows x86 port of stage0
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/nano11-go](https://github.com/Pandapip1/nano11-go) (4 days ago) - Port of nano11 in pure go
