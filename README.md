@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [Pandapip1/ntlibc](https://github.com/Pandapip1/ntlibc) (today)
-- [opensteno/plover](https://github.com/opensteno/plover) (1 day ago) - Open source stenotype engine
-- [Pandapip1/libc-test](https://github.com/Pandapip1/libc-test) (1 day ago) - Mirror of git://repo.or.cz/libc-test.git (musl libc-test). Pinned by ntlibc as third_party/libc-test.
-- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) (4 days ago) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
+- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/ntlibc](https://github.com/Pandapip1/ntlibc) (1 day ago)
+- [opensteno/plover](https://github.com/opensteno/plover) (2 days ago) - Open source stenotype engine
+- [Pandapip1/libc-test](https://github.com/Pandapip1/libc-test) (2 days ago) - Mirror of git://repo.or.cz/libc-test.git (musl libc-test). Pinned by ntlibc as third_party/libc-test.
+- [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) (5 days ago) - Windows-native Nix evaluator - Haskell for logic, C99 for data. Parser, lazy evaluator, content-addressed store, builder, binary substituter.
