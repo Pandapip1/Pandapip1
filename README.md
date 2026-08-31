@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [nix-community/NUR](https://github.com/nix-community/NUR) (3 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [Pandapip1/ntlibc](https://github.com/Pandapip1/ntlibc) (3 days ago)
+- [Pandapip1/ebue](https://github.com/Pandapip1/ebue) (3 days ago)
 - [opensteno/plover](https://github.com/opensteno/plover) (4 days ago) - Open source stenotype engine
 - [Pandapip1/libc-test](https://github.com/Pandapip1/libc-test) (4 days ago) - Mirror of git://repo.or.cz/libc-test.git (musl libc-test). Pinned by ntlibc as third_party/libc-test.
