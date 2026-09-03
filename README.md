@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/ebue](https://github.com/Pandapip1/ebue) (today)
-- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (2 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [opensteno/plover](https://github.com/opensteno/plover) (6 days ago) - Open source stenotype engine
+- [Pandapip1/ebue](https://github.com/Pandapip1/ebue) (1 day ago)
+- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (3 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (3 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [opensteno/plover](https://github.com/opensteno/plover) (1 week ago) - Open source stenotype engine
