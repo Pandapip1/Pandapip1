@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/ebue](https://github.com/Pandapip1/ebue) (today)
 - [Pandapip1/gowim](https://github.com/Pandapip1/gowim) (1 day ago)
 - [Pandapip1/nano11-go](https://github.com/Pandapip1/nano11-go) (2 days ago) - Port of nano11 in pure go
 - [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (5 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (5 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
