@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/spicule](https://github.com/Pandapip1/spicule) (1 day ago)
-- [Pandapip1/calgebra-lints](https://github.com/Pandapip1/calgebra-lints) (2 days ago) - Annotation-driven static analysis toolkit for C, built on Clang&#39;s Static Analyzer
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (3 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (4 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/spicule](https://github.com/Pandapip1/spicule) (2 days ago)
+- [Pandapip1/calgebra-lints](https://github.com/Pandapip1/calgebra-lints) (3 days ago) - Annotation-driven static analysis toolkit for C, built on Clang&#39;s Static Analyzer
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (4 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (4 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (5 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
