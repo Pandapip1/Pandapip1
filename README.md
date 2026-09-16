@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [Pandapip1/gowim](https://github.com/Pandapip1/gowim) (1 day ago)
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 days ago) - My nixos configuration files; GitHub mirror
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/spicule](https://github.com/Pandapip1/spicule) (1 week ago)
+- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (1 day ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [3webs-org/saski](https://github.com/3webs-org/saski) (1 day ago)
+- [Pandapip1/gowim](https://github.com/Pandapip1/gowim) (2 days ago)
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files; GitHub mirror
