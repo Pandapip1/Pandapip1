@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
-- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (1 day ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (2 days ago)
-- [Pandapip1/calgebra-lints](https://github.com/Pandapip1/calgebra-lints) (2 days ago) - Annotation-driven static analysis toolkit for C, built on Clang&#39;s Static Analyzer
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files; GitHub mirror
+- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (2 days ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (3 days ago)
+- [Pandapip1/calgebra-lints](https://github.com/Pandapip1/calgebra-lints) (3 days ago) - Annotation-driven static analysis toolkit for C, built on Clang&#39;s Static Analyzer
