@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
-- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (today)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (today)
-- [Pandapip1/packer-plugin-windows-utils](https://github.com/Pandapip1/packer-plugin-windows-utils) (3 days ago)
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files; GitHub mirror
+- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (1 day ago)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (1 day ago)
+- [Pandapip1/packer-plugin-windows-utils](https://github.com/Pandapip1/packer-plugin-windows-utils) (4 days ago)
