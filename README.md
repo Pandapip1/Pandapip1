@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (2 days ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (1 week ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 week ago) - My nixos configuration files; GitHub mirror
-- [Pandapip1/mudhuts](https://github.com/Pandapip1/mudhuts) (1 week ago)
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
+- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (today)
+- [Pandapip1/PandaAlarm](https://github.com/Pandapip1/PandaAlarm) (1 day ago)
+- [Pandapip1/nhc98](https://github.com/Pandapip1/nhc98) (1 day ago) - An nhc98 fork that can be compiled using modern dependencies, for bootstrapping ghc
+- [Pandapip1/atlasthrow](https://github.com/Pandapip1/atlasthrow) (1 day ago)
