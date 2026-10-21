@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/owo-open-fw](https://github.com/Pandapip1/owo-open-fw) (1 day ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 days ago) - My nixos configuration files; GitHub mirror
 - [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (2 days ago)
 - [Pandapip1/PandaAlarm](https://github.com/Pandapip1/PandaAlarm) (3 days ago)
