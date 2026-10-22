@@ -102,6 +102,6 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 - [3webs-org/saski](https://github.com/3webs-org/saski) (today)
 - [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (today)
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/owo-open-fw](https://github.com/Pandapip1/owo-open-fw) (1 day ago)
-- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files; GitHub mirror
