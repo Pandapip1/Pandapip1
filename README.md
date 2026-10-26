@@ -101,7 +101,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 
 
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [3webs-org/otos-boot](https://github.com/3webs-org/otos-boot) (1 day ago) - Tiny embedded bootloader (EFI and bare-metal targets) for otos-coreinit
+- [3webs-org/saski](https://github.com/3webs-org/saski) (1 day ago)
 - [3webs-org/otos-grub](https://github.com/3webs-org/otos-grub) (1 day ago) - Custom GRUB module replacing the xnu-loader-based boot path for otos-coreinit
 - [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (1 day ago)
 - [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
