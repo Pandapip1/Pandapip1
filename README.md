@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/saski](https://github.com/3webs-org/saski) (1 day ago)
-- [3webs-org/otos-grub](https://github.com/3webs-org/otos-grub) (1 day ago) - Custom GRUB module replacing the xnu-loader-based boot path for otos-coreinit
-- [3webs-org/otos-boot](https://github.com/3webs-org/otos-boot) (1 day ago) - Tiny embedded bootloader (EFI and bare-metal targets) for otos-coreinit
-- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (1 day ago)
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [3webs-org/saski](https://github.com/3webs-org/saski) (2 days ago)
+- [3webs-org/otos-grub](https://github.com/3webs-org/otos-grub) (2 days ago) - Custom GRUB module replacing the xnu-loader-based boot path for otos-coreinit
+- [3webs-org/otos-boot](https://github.com/3webs-org/otos-boot) (2 days ago) - Tiny embedded bootloader (EFI and bare-metal targets) for otos-coreinit
+- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (2 days ago)
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
