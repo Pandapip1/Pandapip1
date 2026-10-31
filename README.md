@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
-- [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [3webs-org/saski](https://github.com/3webs-org/saski) (4 days ago)
-- [3webs-org/otos-boot](https://github.com/3webs-org/otos-boot) (4 days ago) - Tiny embedded bootloader (EFI and bare-metal targets) for otos-coreinit
-- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (4 days ago)
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (1 day ago) - My nixos configuration files; GitHub mirror
+- [nix-community/NUR](https://github.com/nix-community/NUR) (2 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
+- [3webs-org/saski](https://github.com/3webs-org/saski) (5 days ago)
+- [3webs-org/otos-boot](https://github.com/3webs-org/otos-boot) (5 days ago) - Tiny embedded bootloader (EFI and bare-metal targets) for otos-coreinit
+- [3webs-org/otos-coreinit](https://github.com/3webs-org/otos-coreinit) (5 days ago)
