@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [nix-community/NUR](https://github.com/nix-community/NUR) (today) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (today) - My nixos configuration files; GitHub mirror
 - [Novavero-AI/nova-nix](https://github.com/Novavero-AI/nova-nix) (2 days ago) - Windows-native Nix implementation in Haskell and C99: parser, lazy evaluator, store, builder and binary-cache substituter.
 - [Pandapip1/owo-open-fw](https://github.com/Pandapip1/owo-open-fw) (3 days ago)
 - [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (3 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [nix-community/NUR](https://github.com/nix-community/NUR) (6 days ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
