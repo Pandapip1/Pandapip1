@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [80bps/hummingbird.eightybps.com](https://github.com/80bps/hummingbird.eightybps.com) (today) - GitHub Pages site for Hummingbird: its atproto OAuth client metadata
+- [80bps/appsync.eightybps.com](https://github.com/80bps/appsync.eightybps.com) (today) - GitHub Pages site for AppSync, the reusable atproto sync protocol
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [nix-community/NUR](https://github.com/nix-community/NUR) (1 day ago) - Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files; GitHub mirror
-- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (3 days ago)
-- [Pandapip1/owo-open-fw](https://github.com/Pandapip1/owo-open-fw) (5 days ago)
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 week ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
