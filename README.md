@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [Pandapip1/grayjay-plugin-youtube-hummingbird](https://github.com/Pandapip1/grayjay-plugin-youtube-hummingbird) (1 day ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Youtube plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
-- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today) - Nix Packages collection &amp; NixOS
 - [Pandapip1/grayjay-plugin-patreon-hummingbird](https://github.com/Pandapip1/grayjay-plugin-patreon-hummingbird) (1 day ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Patreon plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
+- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (1 day ago)
+- [Pandapip1/grayjay-plugin-youtube-hummingbird](https://github.com/Pandapip1/grayjay-plugin-youtube-hummingbird) (1 day ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Youtube plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (2 days ago) - My nixos configuration files; GitHub mirror
-- [80bps/appsync.eightybps.com](https://github.com/80bps/appsync.eightybps.com) (3 days ago) - GitHub Pages site for AppSync, the reusable atproto sync protocol
