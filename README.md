@@ -100,7 +100,7 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago) - Nix Packages collection &amp; NixOS
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today) - Nix Packages collection &amp; NixOS
 - [Pandapip1/grayjay-plugin-patreon-hummingbird](https://github.com/Pandapip1/grayjay-plugin-patreon-hummingbird) (2 days ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Patreon plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
 - [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (2 days ago)
 - [Pandapip1/grayjay-plugin-youtube-hummingbird](https://github.com/Pandapip1/grayjay-plugin-youtube-hummingbird) (2 days ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Youtube plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
