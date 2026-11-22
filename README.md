@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (today) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
 - [Pandapip1/nix-wine-helpers](https://github.com/Pandapip1/nix-wine-helpers) (2 days ago) - Package Windows software for Linux with a Wine prefix built at Nix build time
 - [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (3 days ago) - My nixos configuration files; GitHub mirror
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago) - Nix Packages collection &amp; NixOS
-- [Pandapip1/grayjay-plugin-youtube-hummingbird](https://github.com/Pandapip1/grayjay-plugin-youtube-hummingbird) (5 days ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Youtube plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
-- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (5 days ago)
+- [Pandapip1/grayjay-plugin-patreon-hummingbird](https://github.com/Pandapip1/grayjay-plugin-patreon-hummingbird) (5 days ago) - Unofficial Hummingbird fork of FUTO&#39;s Grayjay Patreon plugin (AGPL-3.0). Own plugin id; signed by Hummingbird. Not affiliated with FUTO.
