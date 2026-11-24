@@ -100,8 +100,8 @@ Gavin John ([@Pandapip1](https://github.com/Pandapip1)), Tim Daubenschütz ([@Ti
 ## 🌱 Recent Contributions
 
 
-- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (1 day ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
-- [Pandapip1/nix-wine-helpers](https://github.com/Pandapip1/nix-wine-helpers) (3 days ago) - Package Windows software for Linux with a Wine prefix built at Nix build time
-- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (4 days ago) - My nixos configuration files; GitHub mirror
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago) - Nix Packages collection &amp; NixOS
-- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (6 days ago)
+- [Pandapip1/Hummingbird](https://github.com/Pandapip1/Hummingbird) (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago) - Nix Packages collection &amp; NixOS
+- [3webs-org/AccentPress](https://github.com/3webs-org/AccentPress) (2 days ago) - Accent Press is a simple Chrome Extension that allows you to easily write accents.
+- [Pandapip1/nix-wine-helpers](https://github.com/Pandapip1/nix-wine-helpers) (4 days ago) - Package Windows software for Linux with a Wine prefix built at Nix build time
+- [Pandapip1/nixos](https://github.com/Pandapip1/nixos) (5 days ago) - My nixos configuration files; GitHub mirror
